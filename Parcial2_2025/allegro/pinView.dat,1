@@ -1,0 +1,701 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!c:/candencecircuits/parcial2_2025/allegro/parcial2_ks.brd!Sat Nov  8 19:05:56 2025!-113.0300!-60.3250!420.3700!371.4750!0.0001!millimeters!PARCIAL2_KS!38.000000 mil!5!OUT OF DATE!
+S!!U7!96!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N72173!U7!21!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N63458!U7!22!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N63451!U7!23!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!DP1_CC1!U7!12!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!DP1_CC2!U7!13!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N337092!U7!4!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!GND_SIGNAL!U7!101!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N63278!U7!65!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N63271!U7!64!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N63264!U7!63!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF10!U7!51!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF11!U7!52!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF12!U7!54!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF13!U7!56!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF14!U7!57!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF15!U7!58!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF16!U7!59!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF17!U7!60!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF18!U7!61!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF19!U7!66!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF26!U7!75!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF27!U7!76!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF27!U7!77!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF29!U7!74!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF3!U7!44!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF30!U7!2!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF31!U7!3!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF4!U7!45!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!GND_SIGNAL_112609!U7!46!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF6!U7!47!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF7!U7!48!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF8!U7!49!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!PF9!U7!50!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N63808!U7!100!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N78836!U7!1!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N65433!U7!69!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N64509!U7!68!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N65407!U7!70!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N64519!U7!71!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!!U7!72!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!!U7!73!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N63830!U7!24!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_1_N!U7!6!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_2_N!U7!28!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_3_N!U7!35!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_4_N!U7!82!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_5_N!U7!15!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_6_P!U7!41!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_1_P!U7!5!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_2_P!U7!27!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_3_P!U7!34!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_4_P!U7!81!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_5_P!U7!14!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2DN/PRT_DIS_6_N!U7!42!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2UP_N!U7!90!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB2UP_P!U7!89!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX1A_N!U7!11!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX1B_N!U7!20!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX2_N!U7!33!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX3_N!U7!40!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX4_P!U7!87!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX1A_P!U7!10!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX1B_P!U7!19!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX2_P!U7!32!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX3_P!U7!39!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_RX4_N!U7!86!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX1A_N!U7!8!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX1B_N!U7!17!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX2_N!U7!30!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX3_N!U7!37!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX4_N!U7!84!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX1A_P!U7!7!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX1B_P!U7!16!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX2_P!U7!29!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX3_P!U7!36!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3DN_TX4_P!U7!83!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3UP_RX_N!U7!95!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3UP_RX_P!U7!94!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3UP_TX_N!U7!92!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!USB3UP_TX_P!U7!91!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N337903!U7!80!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!9!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!18!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!25!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!31!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!38!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!55!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!78!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!85!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!VDDCORE!U7!93!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!26!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!43!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!53!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!62!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!67!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!79!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!88!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!3V3_BRD!U7!99!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!25MHZ!U7!98!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!!U7!97!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!!!F1!!!!!!!!!!
+S!N122546!D11!2!@parcial2_ks.schematic1(sch_1):ins268631@\1n4148w\.\1n4148w.normal\(chips)!1N4148W_SOD3716X135N_1N4148W!!!F126!!!!!!!!!!
+S!N268695!D11!1!@parcial2_ks.schematic1(sch_1):ins268631@\1n4148w\.\1n4148w.normal\(chips)!1N4148W_SOD3716X135N_1N4148W!!!F126!!!!!!!!!!
+S!N123060!D12!2!@parcial2_ks.schematic1(sch_1):ins268655@\1n4148w\.\1n4148w.normal\(chips)!1N4148W_SOD3716X135N_1N4148W!!!F125!!!!!!!!!!
+S!N163088!D12!1!@parcial2_ks.schematic1(sch_1):ins268655@\1n4148w\.\1n4148w.normal\(chips)!1N4148W_SOD3716X135N_1N4148W!!!F125!!!!!!!!!!
+S!GND_SIGNAL!D10!2!@parcial2_ks.schematic1(sch_1):ins172410@\dfls1150-7\.\dfls1150-7.normal\(chips)!DFLS1150-7_DIOM5443X265N_DIOM5226X230N!!!F127!!!!!!!!!!
+S!N92757!D10!1!@parcial2_ks.schematic1(sch_1):ins172410@\dfls1150-7\.\dfls1150-7.normal\(chips)!DFLS1150-7_DIOM5443X265N_DIOM5226X230N!!!F127!!!!!!!!!!
+S!N92757!L6!1!@parcial2_ks.schematic1(sch_1):ins248099@parcial2_ks.\lqw18an22nj10d_0.normal\(chips)!LQW18AN22NJ10D_0_AISC-0603HP_LQW18AN22NJ10D!!!F110!!!!!!!!!!
+S!N94198!L6!2!@parcial2_ks.schematic1(sch_1):ins248099@parcial2_ks.\lqw18an22nj10d_0.normal\(chips)!LQW18AN22NJ10D_0_AISC-0603HP_LQW18AN22NJ10D!!!F110!!!!!!!!!!
+S!N364346!L7!1!@parcial2_ks.schematic1(sch_1):ins250598@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)!LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D!!!F109!!!!!!!!!!
+S!N100947!L7!2!@parcial2_ks.schematic1(sch_1):ins250598@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)!LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D!!!F109!!!!!!!!!!
+S!N250881!L8!1!@parcial2_ks.schematic1(sch_1):ins250855@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)!LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D!!!F108!!!!!!!!!!
+S!VDDCORE!L8!2!@parcial2_ks.schematic1(sch_1):ins250855@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)!LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D!!!F108!!!!!!!!!!
+S!DP1_CC1!U4!A5!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!DP1_CC2!U4!B8!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB2DN/PRT_DIS_1_P!U4!A6!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB2DN/PRT_DIS_1_P!U4!B7!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB2DN/PRT_DIS_1_N!U4!A7!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB2DN/PRT_DIS_1_N!U4!B6!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!GND_SIGNAL_112609!U4!A1!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!GND_SIGNAL_112609!U4!A12!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!GND_SIGNAL_112609!U4!B1!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!GND_SIGNAL_112609!U4!B12!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_RX1A_P!U4!B11!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_RX1A_N!U4!B10!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_RX1B_N!U4!A11!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_RX1B_P!U4!A10!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!!U4!A8!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!!U4!B5!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!GND_SIGNAL_112609!U4!25!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_TX1A_P!U4!A2!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_TX1A_N!U4!A3!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_TX1B_N!U4!B2!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!USB3DN_TX1B_P!U4!B3!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!VBUS1!U4!A4!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!VBUS1!U4!A9!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!VBUS1!U4!B4!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!VBUS1!U4!B9!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!!!F2!!!!!!!!!!
+S!VIN!C23!1!@parcial2_ks.schematic1(sch_1):ins88817@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!!!F166!!!!!!!!!!
+S!GND_SIGNAL!C23!2!@parcial2_ks.schematic1(sch_1):ins88817@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!!!F166!!!!!!!!!!
+S!VIN!C24!1!@parcial2_ks.schematic1(sch_1):ins89975@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!!!F165!!!!!!!!!!
+S!GND_SIGNAL!C24!2!@parcial2_ks.schematic1(sch_1):ins89975@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!!!F165!!!!!!!!!!
+S!N91108!C27!1!@parcial2_ks.schematic1(sch_1):ins91126@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!!!F164!!!!!!!!!!
+S!GND_SIGNAL!C27!2!@parcial2_ks.schematic1(sch_1):ins91126@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!!!F164!!!!!!!!!!
+S!VIN!C25!1!@parcial2_ks.schematic1(sch_1):ins90001@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U47!!!F163!!!!!!!!!!
+S!GND_SIGNAL!C25!2!@parcial2_ks.schematic1(sch_1):ins90001@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U47!!!F163!!!!!!!!!!
+S!VCC1!C26!1!@parcial2_ks.schematic1(sch_1):ins90361@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_1U!!!F162!!!!!!!!!!
+S!GND_SIGNAL!C26!2!@parcial2_ks.schematic1(sch_1):ins90361@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_1U!!!F162!!!!!!!!!!
+S!N92548!C28!1!@parcial2_ks.schematic1(sch_1):ins92562@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_1U!!!F161!!!!!!!!!!
+S!N92757!C28!2!@parcial2_ks.schematic1(sch_1):ins92562@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_1U!!!F161!!!!!!!!!!
+S!N93211!C29!1!@parcial2_ks.schematic1(sch_1):ins93177@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_220P!!!F160!!!!!!!!!!
+S!GND_SIGNAL!C29!2!@parcial2_ks.schematic1(sch_1):ins93177@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_220P!!!F160!!!!!!!!!!
+S!N95006!C30!1!@parcial2_ks.schematic1(sch_1):ins94713@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_220P!!!F159!!!!!!!!!!
+S!GND_SIGNAL!C30!2!@parcial2_ks.schematic1(sch_1):ins94713@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_220P!!!F159!!!!!!!!!!
+S!N95013!C31!1!@parcial2_ks.schematic1(sch_1):ins94947@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_680P!!!F158!!!!!!!!!!
+S!N94874!C31!2!@parcial2_ks.schematic1(sch_1):ins94947@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_680P!!!F158!!!!!!!!!!
+S!5V_BRD!C33!1!@parcial2_ks.schematic1(sch_1):ins95245@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F157!!!!!!!!!!
+S!GND_SIGNAL!C33!2!@parcial2_ks.schematic1(sch_1):ins95245@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F157!!!!!!!!!!
+S!5V_BRD!C35!1!@parcial2_ks.schematic1(sch_1):ins99891@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F156!!!!!!!!!!
+S!GND_SIGNAL!C35!2!@parcial2_ks.schematic1(sch_1):ins99891@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F156!!!!!!!!!!
+S!3V3_BRD!C36!1!@parcial2_ks.schematic1(sch_1):ins100357@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F155!!!!!!!!!!
+S!GND_SIGNAL!C36!2!@parcial2_ks.schematic1(sch_1):ins100357@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F155!!!!!!!!!!
+S!5V_BRD!C38!1!@parcial2_ks.schematic1(sch_1):ins104851@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F154!!!!!!!!!!
+S!GND_SIGNAL!C38!2!@parcial2_ks.schematic1(sch_1):ins104851@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F154!!!!!!!!!!
+S!5V_BRD!C41!1!@parcial2_ks.schematic1(sch_1):ins105027@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F153!!!!!!!!!!
+S!GND_SIGNAL!C41!2!@parcial2_ks.schematic1(sch_1):ins105027@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F153!!!!!!!!!!
+S!N105248!C42!1!@parcial2_ks.schematic1(sch_1):ins105079@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F152!!!!!!!!!!
+S!GND_SIGNAL!C42!2!@parcial2_ks.schematic1(sch_1):ins105079@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F152!!!!!!!!!!
+S!VDDCORE!C43!1!@parcial2_ks.schematic1(sch_1):ins108076@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F151!!!!!!!!!!
+S!GND_SIGNAL!C43!2!@parcial2_ks.schematic1(sch_1):ins108076@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!!!F151!!!!!!!!!!
+S!5V_BRD!C34!1!@parcial2_ks.schematic1(sch_1):ins96901@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_220U!!!F150!!!!!!!!!!
+S!GND_SIGNAL!C34!2!@parcial2_ks.schematic1(sch_1):ins96901@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_220U!!!F150!!!!!!!!!!
+S!VIN!C37!1!@parcial2_ks.schematic1(sch_1):ins104069@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_47U!!!F149!!!!!!!!!!
+S!N104117!C37!2!@parcial2_ks.schematic1(sch_1):ins104069@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_47U!!!F149!!!!!!!!!!
+S!VBUS1!C47!1!@parcial2_ks.schematic1(sch_1):ins117578@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_10U!!!F148!!!!!!!!!!
+S!GND_SIGNAL_112609!C47!2!@parcial2_ks.schematic1(sch_1):ins117578@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_10U!!!F148!!!!!!!!!!
+S!VBUS6!C72!1!@parcial2_ks.schematic1(sch_1):ins134788@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F143!!!!!!!!!!
+S!GND_SIGNAL_112609!C72!2!@parcial2_ks.schematic1(sch_1):ins134788@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F143!!!!!!!!!!
+S!VBUS2!C58!1!@parcial2_ks.schematic1(sch_1):ins126636@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F147!!!!!!!!!!
+S!GND_SIGNAL_112609!C58!2!@parcial2_ks.schematic1(sch_1):ins126636@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F147!!!!!!!!!!
+S!VBUS3!C64!1!@parcial2_ks.schematic1(sch_1):ins129349@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F146!!!!!!!!!!
+S!GND_SIGNAL_112609!C64!2!@parcial2_ks.schematic1(sch_1):ins129349@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F146!!!!!!!!!!
+S!VBUS4!C68!1!@parcial2_ks.schematic1(sch_1):ins130238@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F145!!!!!!!!!!
+S!GND_SIGNAL_112609!C68!2!@parcial2_ks.schematic1(sch_1):ins130238@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F145!!!!!!!!!!
+S!VBUS5!C70!1!@parcial2_ks.schematic1(sch_1):ins131389@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F144!!!!!!!!!!
+S!GND_SIGNAL_112609!C70!2!@parcial2_ks.schematic1(sch_1):ins131389@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!!!F144!!!!!!!!!!
+S!5V_BRD_121705!C74!1!@parcial2_ks.schematic1(sch_1):ins136045@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F142!!!!!!!!!!
+S!GND_SIGNAL!C74!2!@parcial2_ks.schematic1(sch_1):ins136045@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F142!!!!!!!!!!
+S!5V_BRD_121705!C75!1!@parcial2_ks.schematic1(sch_1):ins136061@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F141!!!!!!!!!!
+S!GND_SIGNAL!C75!2!@parcial2_ks.schematic1(sch_1):ins136061@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F141!!!!!!!!!!
+S!5V_BRD_121705!C76!1!@parcial2_ks.schematic1(sch_1):ins136077@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F140!!!!!!!!!!
+S!GND_SIGNAL!C76!2!@parcial2_ks.schematic1(sch_1):ins136077@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F140!!!!!!!!!!
+S!5V_BRD_121705!C77!1!@parcial2_ks.schematic1(sch_1):ins136093@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F139!!!!!!!!!!
+S!GND_SIGNAL!C77!2!@parcial2_ks.schematic1(sch_1):ins136093@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F139!!!!!!!!!!
+S!5V_BRD_121705!C79!1!@parcial2_ks.schematic1(sch_1):ins137935@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F138!!!!!!!!!!
+S!GND_SIGNAL!C79!2!@parcial2_ks.schematic1(sch_1):ins137935@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F138!!!!!!!!!!
+S!5V_BRD_121705!C80!1!@parcial2_ks.schematic1(sch_1):ins137951@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F137!!!!!!!!!!
+S!GND_SIGNAL!C80!2!@parcial2_ks.schematic1(sch_1):ins137951@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F137!!!!!!!!!!
+S!5V_BRD_121705!C81!1!@parcial2_ks.schematic1(sch_1):ins137967@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F136!!!!!!!!!!
+S!GND_SIGNAL!C81!2!@parcial2_ks.schematic1(sch_1):ins137967@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F136!!!!!!!!!!
+S!5V_BRD_121705!C82!1!@parcial2_ks.schematic1(sch_1):ins137983@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F135!!!!!!!!!!
+S!GND_SIGNAL!C82!2!@parcial2_ks.schematic1(sch_1):ins137983@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F135!!!!!!!!!!
+S!5V_BRD_121705!C84!1!@parcial2_ks.schematic1(sch_1):ins140229@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F134!!!!!!!!!!
+S!GND_SIGNAL!C84!2!@parcial2_ks.schematic1(sch_1):ins140229@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F134!!!!!!!!!!
+S!5V_BRD_121705!C85!1!@parcial2_ks.schematic1(sch_1):ins140245@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F133!!!!!!!!!!
+S!GND_SIGNAL!C85!2!@parcial2_ks.schematic1(sch_1):ins140245@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F133!!!!!!!!!!
+S!5V_BRD_121705!C86!1!@parcial2_ks.schematic1(sch_1):ins140261@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F132!!!!!!!!!!
+S!GND_SIGNAL!C86!2!@parcial2_ks.schematic1(sch_1):ins140261@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F132!!!!!!!!!!
+S!5V_BRD_121705!C87!1!@parcial2_ks.schematic1(sch_1):ins140277@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F131!!!!!!!!!!
+S!GND_SIGNAL!C87!2!@parcial2_ks.schematic1(sch_1):ins140277@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!!!F131!!!!!!!!!!
+S!5V_BRD_121705!C78!1!@parcial2_ks.schematic1(sch_1):ins136109@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!!!F130!!!!!!!!!!
+S!GND_SIGNAL!C78!2!@parcial2_ks.schematic1(sch_1):ins136109@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!!!F130!!!!!!!!!!
+S!5V_BRD_121705!C83!1!@parcial2_ks.schematic1(sch_1):ins137999@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!!!F129!!!!!!!!!!
+S!GND_SIGNAL!C83!2!@parcial2_ks.schematic1(sch_1):ins137999@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!!!F129!!!!!!!!!!
+S!5V_BRD_121705!C88!1!@parcial2_ks.schematic1(sch_1):ins140293@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!!!F128!!!!!!!!!!
+S!GND_SIGNAL!C88!2!@parcial2_ks.schematic1(sch_1):ins140293@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!!!F128!!!!!!!!!!
+S!N90279!R26!1!@parcial2_ks.schematic1(sch_1):ins88791@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_37K4!!!F59!!!!!!!!!!
+S!GND_SIGNAL!R26!2!@parcial2_ks.schematic1(sch_1):ins88791@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_37K4!!!F59!!!!!!!!!!
+S!N92080!R32!1!@parcial2_ks.schematic1(sch_1):ins92034@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_37K4!!!F58!!!!!!!!!!
+S!GND_SIGNAL!R32!2!@parcial2_ks.schematic1(sch_1):ins92034@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_37K4!!!F58!!!!!!!!!!
+S!VIN!R30!1!@parcial2_ks.schematic1(sch_1):ins91685@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1M!!!F57!!!!!!!!!!
+S!N91735!R30!2!@parcial2_ks.schematic1(sch_1):ins91685@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1M!!!F57!!!!!!!!!!
+S!N92544!R34!1!@parcial2_ks.schematic1(sch_1):ins92422@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1M!!!F56!!!!!!!!!!
+S!N92548!R34!2!@parcial2_ks.schematic1(sch_1):ins92422@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1M!!!F56!!!!!!!!!!
+S!N91735!R31!1!@parcial2_ks.schematic1(sch_1):ins91825@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_NS!!!F55!!!!!!!!!!
+S!GND_SIGNAL!R31!2!@parcial2_ks.schematic1(sch_1):ins91825@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_NS!!!F55!!!!!!!!!!
+S!N94198!R38!1!@parcial2_ks.schematic1(sch_1):ins94274@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R007!!!F52!!!!!!!!!!
+S!5V_BRD!R38!2!@parcial2_ks.schematic1(sch_1):ins94274@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R007!!!F52!!!!!!!!!!
+S!N92757!R36!1!@parcial2_ks.schematic1(sch_1):ins93151@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10!!!F54!!!!!!!!!!
+S!N93211!R36!2!@parcial2_ks.schematic1(sch_1):ins93151@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10!!!F54!!!!!!!!!!
+S!5V_BRD!R40!1!@parcial2_ks.schematic1(sch_1):ins94394@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10!!!F53!!!!!!!!!!
+S!N94582!R40!2!@parcial2_ks.schematic1(sch_1):ins94394@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10!!!F53!!!!!!!!!!
+S!N94582!R41!1!@parcial2_ks.schematic1(sch_1):ins94420@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_63K4!!!F51!!!!!!!!!!
+S!N94586!R41!2!@parcial2_ks.schematic1(sch_1):ins94420@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_63K4!!!F51!!!!!!!!!!
+S!N94874!R43!1!@parcial2_ks.schematic1(sch_1):ins94876@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_51K!!!F48!!!!!!!!!!
+S!GND_SIGNAL!R43!2!@parcial2_ks.schematic1(sch_1):ins94876@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_51K!!!F48!!!!!!!!!!
+S!3V3_BRD!R44!1!@parcial2_ks.schematic1(sch_1):ins100234@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_511K!!!F47!!!!!!!!!!
+S!N100571!R44!2!@parcial2_ks.schematic1(sch_1):ins100234@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_511K!!!F47!!!!!!!!!!
+S!VDDCORE!R48!1!@parcial2_ks.schematic1(sch_1):ins107860@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_511K!!!F46!!!!!!!!!!
+S!N107878!R48!2!@parcial2_ks.schematic1(sch_1):ins107860@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_511K!!!F46!!!!!!!!!!
+S!N100571!R45!1!@parcial2_ks.schematic1(sch_1):ins100260@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_91K!!!F45!!!!!!!!!!
+S!GND_SIGNAL!R45!2!@parcial2_ks.schematic1(sch_1):ins100260@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_91K!!!F45!!!!!!!!!!
+S!N107878!R49!1!@parcial2_ks.schematic1(sch_1):ins107888@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_91K!!!F44!!!!!!!!!!
+S!GND_SIGNAL!R49!2!@parcial2_ks.schematic1(sch_1):ins107888@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_91K!!!F44!!!!!!!!!!
+S!GND_SIGNAL_112609!R50!1!@parcial2_ks.schematic1(sch_1):ins112599@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330!!!F43!!!!!!!!!!
+S!GND_SIGNAL_112609!R50!2!@parcial2_ks.schematic1(sch_1):ins112599@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330!!!F43!!!!!!!!!!
+S!GND_SIGNAL_112609!R51!1!@parcial2_ks.schematic1(sch_1):ins116646@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330!!!F42!!!!!!!!!!
+S!DP1_VBUS_MON!R51!2!@parcial2_ks.schematic1(sch_1):ins116646@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330!!!F42!!!!!!!!!!
+S!N117334!R53!1!@parcial2_ks.schematic1(sch_1):ins117286@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_560!!!F41!!!!!!!!!!
+S!VBUS1!R53!2!@parcial2_ks.schematic1(sch_1):ins117286@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_560!!!F41!!!!!!!!!!
+S!N122157!R54!1!@parcial2_ks.schematic1(sch_1):ins121731@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F40!!!!!!!!!!
+S!5V_BRD_121705!R54!2!@parcial2_ks.schematic1(sch_1):ins121731@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F40!!!!!!!!!!
+S!N122386!R55!1!@parcial2_ks.schematic1(sch_1):ins121959@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F39!!!!!!!!!!
+S!N122157!R55!2!@parcial2_ks.schematic1(sch_1):ins121959@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F39!!!!!!!!!!
+S!N123124!R59!1!@parcial2_ks.schematic1(sch_1):ins123074@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F38!!!!!!!!!!
+S!5V_BRD_121705!R59!2!@parcial2_ks.schematic1(sch_1):ins123074@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F38!!!!!!!!!!
+S!N123200!R60!1!@parcial2_ks.schematic1(sch_1):ins123158@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F37!!!!!!!!!!
+S!N123124!R60!2!@parcial2_ks.schematic1(sch_1):ins123158@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!!!F37!!!!!!!!!!
+S!DP1_CC1!R57!1!@parcial2_ks.schematic1(sch_1):ins122066@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_2R!!!F36!!!!!!!!!!
+S!N268695!R57!2!@parcial2_ks.schematic1(sch_1):ins122066@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_2R!!!F36!!!!!!!!!!
+S!DP1_CC2!R58!1!@parcial2_ks.schematic1(sch_1):ins123022@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_2R!!!F35!!!!!!!!!!
+S!N163088!R58!2!@parcial2_ks.schematic1(sch_1):ins123022@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_2R!!!F35!!!!!!!!!!
+S!GND_SIGNAL_112609!R62!1!@parcial2_ks.schematic1(sch_1):ins126610@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F34!!!!!!!!!!
+S!VBUS2!R62!2!@parcial2_ks.schematic1(sch_1):ins126610@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F34!!!!!!!!!!
+S!GND_SIGNAL_112609!R64!1!@parcial2_ks.schematic1(sch_1):ins129333@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F33!!!!!!!!!!
+S!VBUS3!R64!2!@parcial2_ks.schematic1(sch_1):ins129333@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F33!!!!!!!!!!
+S!GND_SIGNAL_112609!R66!1!@parcial2_ks.schematic1(sch_1):ins130222@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F32!!!!!!!!!!
+S!VBUS4!R66!2!@parcial2_ks.schematic1(sch_1):ins130222@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F32!!!!!!!!!!
+S!GND_SIGNAL_112609!R68!1!@parcial2_ks.schematic1(sch_1):ins131373@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F31!!!!!!!!!!
+S!VBUS5!R68!2!@parcial2_ks.schematic1(sch_1):ins131373@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F31!!!!!!!!!!
+S!GND_SIGNAL_112609!R70!1!@parcial2_ks.schematic1(sch_1):ins134772@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F30!!!!!!!!!!
+S!VBUS6!R70!2!@parcial2_ks.schematic1(sch_1):ins134772@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!!!F30!!!!!!!!!!
+S!N128395!R63!1!@parcial2_ks.schematic1(sch_1):ins128049@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F29!!!!!!!!!!
+S!GND_SIGNAL_112609!R63!2!@parcial2_ks.schematic1(sch_1):ins128049@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F29!!!!!!!!!!
+S!N129331!R65!1!@parcial2_ks.schematic1(sch_1):ins129365@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F28!!!!!!!!!!
+S!GND_SIGNAL_112609!R65!2!@parcial2_ks.schematic1(sch_1):ins129365@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F28!!!!!!!!!!
+S!N130220!R67!1!@parcial2_ks.schematic1(sch_1):ins130254@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F27!!!!!!!!!!
+S!GND_SIGNAL_112609!R67!2!@parcial2_ks.schematic1(sch_1):ins130254@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F27!!!!!!!!!!
+S!N131838!R69!1!@parcial2_ks.schematic1(sch_1):ins131840@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F26!!!!!!!!!!
+S!GND_SIGNAL_112609!R69!2!@parcial2_ks.schematic1(sch_1):ins131840@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F26!!!!!!!!!!
+S!N134726!R71!1!@parcial2_ks.schematic1(sch_1):ins134804@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F25!!!!!!!!!!
+S!GND_SIGNAL_112609!R71!2!@parcial2_ks.schematic1(sch_1):ins134804@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!!!F25!!!!!!!!!!
+S!N136271!R72!1!@parcial2_ks.schematic1(sch_1):ins136181@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F24!!!!!!!!!!
+S!3V3_BRD!R72!2!@parcial2_ks.schematic1(sch_1):ins136181@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F24!!!!!!!!!!
+S!N136275!R73!1!@parcial2_ks.schematic1(sch_1):ins136197@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F23!!!!!!!!!!
+S!3V3_BRD!R73!2!@parcial2_ks.schematic1(sch_1):ins136197@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F23!!!!!!!!!!
+S!N138161!R82!1!@parcial2_ks.schematic1(sch_1):ins138071@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F22!!!!!!!!!!
+S!3V3_BRD!R82!2!@parcial2_ks.schematic1(sch_1):ins138071@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F22!!!!!!!!!!
+S!N138165!R83!1!@parcial2_ks.schematic1(sch_1):ins138087@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F21!!!!!!!!!!
+S!3V3_BRD!R83!2!@parcial2_ks.schematic1(sch_1):ins138087@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F21!!!!!!!!!!
+S!N140461!R92!1!@parcial2_ks.schematic1(sch_1):ins140371@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F20!!!!!!!!!!
+S!3V3_BRD!R92!2!@parcial2_ks.schematic1(sch_1):ins140371@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F20!!!!!!!!!!
+S!N140465!R93!1!@parcial2_ks.schematic1(sch_1):ins140387@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F19!!!!!!!!!!
+S!3V3_BRD!R93!2!@parcial2_ks.schematic1(sch_1):ins140387@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!!!F19!!!!!!!!!!
+S!N140461!R98!1!@parcial2_ks.schematic1(sch_1):ins140575@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F8!!!!!!!!!!
+S!PF27!R98!2!@parcial2_ks.schematic1(sch_1):ins140575@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F8!!!!!!!!!!
+S!N136275!R74!1!@parcial2_ks.schematic1(sch_1):ins136253@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F18!!!!!!!!!!
+S!PF17!R74!2!@parcial2_ks.schematic1(sch_1):ins136253@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F18!!!!!!!!!!
+S!N136363!R76!1!@parcial2_ks.schematic1(sch_1):ins136317@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F17!!!!!!!!!!
+S!N136275!R76!2!@parcial2_ks.schematic1(sch_1):ins136317@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F17!!!!!!!!!!
+S!N136271!R78!1!@parcial2_ks.schematic1(sch_1):ins136385@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F16!!!!!!!!!!
+S!PF15!R78!2!@parcial2_ks.schematic1(sch_1):ins136385@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F16!!!!!!!!!!
+S!N136447!R79!1!@parcial2_ks.schematic1(sch_1):ins136425@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F15!!!!!!!!!!
+S!N136271!R79!2!@parcial2_ks.schematic1(sch_1):ins136425@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F15!!!!!!!!!!
+S!N138165!R84!1!@parcial2_ks.schematic1(sch_1):ins138143@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F14!!!!!!!!!!
+S!PF14!R84!2!@parcial2_ks.schematic1(sch_1):ins138143@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F14!!!!!!!!!!
+S!N138253!R86!1!@parcial2_ks.schematic1(sch_1):ins138207@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F13!!!!!!!!!!
+S!N138165!R86!2!@parcial2_ks.schematic1(sch_1):ins138207@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F13!!!!!!!!!!
+S!N138161!R88!1!@parcial2_ks.schematic1(sch_1):ins138275@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F12!!!!!!!!!!
+S!PF13!R88!2!@parcial2_ks.schematic1(sch_1):ins138275@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F12!!!!!!!!!!
+S!N138337!R89!1!@parcial2_ks.schematic1(sch_1):ins138315@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F11!!!!!!!!!!
+S!N138161!R89!2!@parcial2_ks.schematic1(sch_1):ins138315@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F11!!!!!!!!!!
+S!N140465!R94!1!@parcial2_ks.schematic1(sch_1):ins140443@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F10!!!!!!!!!!
+S!PF16!R94!2!@parcial2_ks.schematic1(sch_1):ins140443@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F10!!!!!!!!!!
+S!N140553!R96!1!@parcial2_ks.schematic1(sch_1):ins140507@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F9!!!!!!!!!!
+S!N140465!R96!2!@parcial2_ks.schematic1(sch_1):ins140507@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F9!!!!!!!!!!
+S!N140637!R99!1!@parcial2_ks.schematic1(sch_1):ins140615@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F7!!!!!!!!!!
+S!N140461!R99!2!@parcial2_ks.schematic1(sch_1):ins140615@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!!!F7!!!!!!!!!!
+S!GND_SIGNAL!R77!1!@parcial2_ks.schematic1(sch_1):ins136337@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!!!F6!!!!!!!!!!
+S!N136367!R77!2!@parcial2_ks.schematic1(sch_1):ins136337@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!!!F6!!!!!!!!!!
+S!GND_SIGNAL!R87!1!@parcial2_ks.schematic1(sch_1):ins138227@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!!!F5!!!!!!!!!!
+S!N138257!R87!2!@parcial2_ks.schematic1(sch_1):ins138227@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!!!F5!!!!!!!!!!
+S!GND_SIGNAL!R97!1!@parcial2_ks.schematic1(sch_1):ins140527@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!!!F4!!!!!!!!!!
+S!N140557!R97!2!@parcial2_ks.schematic1(sch_1):ins140527@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!!!F4!!!!!!!!!!
+S!VDDCORE!C89!1!@parcial2_ks.schematic1(sch_1):ins228205@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F196!!!!!!!!!!
+S!GND_SIGNAL!C89!2!@parcial2_ks.schematic1(sch_1):ins228205@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F196!!!!!!!!!!
+S!3V3_BRD!C1!1!@parcial2_ks.schematic1(sch_1):ins62687@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F212!!!!!!!!!!
+S!GND_SIGNAL!C1!2!@parcial2_ks.schematic1(sch_1):ins62687@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F212!!!!!!!!!!
+S!VDDCORE!C10!1!@parcial2_ks.schematic1(sch_1):ins67538@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F211!!!!!!!!!!
+S!GND_SIGNAL!C10!2!@parcial2_ks.schematic1(sch_1):ins67538@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F211!!!!!!!!!!
+S!VDDCORE!C11!1!@parcial2_ks.schematic1(sch_1):ins67564@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F210!!!!!!!!!!
+S!GND_SIGNAL!C11!2!@parcial2_ks.schematic1(sch_1):ins67564@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F210!!!!!!!!!!
+S!VDDCORE!C12!1!@parcial2_ks.schematic1(sch_1):ins67590@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F209!!!!!!!!!!
+S!GND_SIGNAL!C12!2!@parcial2_ks.schematic1(sch_1):ins67590@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F209!!!!!!!!!!
+S!VDDCORE!C13!1!@parcial2_ks.schematic1(sch_1):ins67616@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F208!!!!!!!!!!
+S!GND_SIGNAL!C13!2!@parcial2_ks.schematic1(sch_1):ins67616@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F208!!!!!!!!!!
+S!VDDCORE!C14!1!@parcial2_ks.schematic1(sch_1):ins67642@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F207!!!!!!!!!!
+S!GND_SIGNAL!C14!2!@parcial2_ks.schematic1(sch_1):ins67642@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F207!!!!!!!!!!
+S!VDDCORE!C15!1!@parcial2_ks.schematic1(sch_1):ins67668@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F206!!!!!!!!!!
+S!GND_SIGNAL!C15!2!@parcial2_ks.schematic1(sch_1):ins67668@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F206!!!!!!!!!!
+S!VDDCORE!C16!1!@parcial2_ks.schematic1(sch_1):ins67694@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F205!!!!!!!!!!
+S!GND_SIGNAL!C16!2!@parcial2_ks.schematic1(sch_1):ins67694@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F205!!!!!!!!!!
+S!3V3_BRD!C17!1!@parcial2_ks.schematic1(sch_1):ins69386@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F204!!!!!!!!!!
+S!GND_SIGNAL!C17!2!@parcial2_ks.schematic1(sch_1):ins69386@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F204!!!!!!!!!!
+S!3V3_BRD!C2!1!@parcial2_ks.schematic1(sch_1):ins66228@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F203!!!!!!!!!!
+S!GND_SIGNAL!C2!2!@parcial2_ks.schematic1(sch_1):ins66228@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F203!!!!!!!!!!
+S!3V3_BRD!C3!1!@parcial2_ks.schematic1(sch_1):ins66254@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F202!!!!!!!!!!
+S!GND_SIGNAL!C3!2!@parcial2_ks.schematic1(sch_1):ins66254@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F202!!!!!!!!!!
+S!3V3_BRD!C4!1!@parcial2_ks.schematic1(sch_1):ins66280@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F201!!!!!!!!!!
+S!GND_SIGNAL!C4!2!@parcial2_ks.schematic1(sch_1):ins66280@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F201!!!!!!!!!!
+S!3V3_BRD!C5!1!@parcial2_ks.schematic1(sch_1):ins66306@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F200!!!!!!!!!!
+S!GND_SIGNAL!C5!2!@parcial2_ks.schematic1(sch_1):ins66306@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F200!!!!!!!!!!
+S!3V3_BRD!C6!1!@parcial2_ks.schematic1(sch_1):ins66332@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F199!!!!!!!!!!
+S!GND_SIGNAL!C6!2!@parcial2_ks.schematic1(sch_1):ins66332@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F199!!!!!!!!!!
+S!3V3_BRD!C7!1!@parcial2_ks.schematic1(sch_1):ins66358@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F198!!!!!!!!!!
+S!GND_SIGNAL!C7!2!@parcial2_ks.schematic1(sch_1):ins66358@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F198!!!!!!!!!!
+S!3V3_BRD!C8!1!@parcial2_ks.schematic1(sch_1):ins66384@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F197!!!!!!!!!!
+S!GND_SIGNAL!C8!2!@parcial2_ks.schematic1(sch_1):ins66384@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F197!!!!!!!!!!
+S!VDDCORE!C9!1!@parcial2_ks.schematic1(sch_1):ins67512@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F195!!!!!!!!!!
+S!GND_SIGNAL!C9!2!@parcial2_ks.schematic1(sch_1):ins67512@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!!!F195!!!!!!!!!!
+S!GND_SIGNAL_112609!C73!1!@parcial2_ks.schematic1(sch_1):ins134844@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F167!!!!!!!!!!
+S!N134726!C73!2!@parcial2_ks.schematic1(sch_1):ins134844@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F167!!!!!!!!!!
+S!5V_BRD!C39!1!@parcial2_ks.schematic1(sch_1):ins104877@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F192!!!!!!!!!!
+S!GND_SIGNAL!C39!2!@parcial2_ks.schematic1(sch_1):ins104877@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F192!!!!!!!!!!
+S!5V_BRD!C40!1!@parcial2_ks.schematic1(sch_1):ins104903@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F191!!!!!!!!!!
+S!GND_SIGNAL!C40!2!@parcial2_ks.schematic1(sch_1):ins104903@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F191!!!!!!!!!!
+S!VDDCORE!C44!1!@parcial2_ks.schematic1(sch_1):ins108102@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F190!!!!!!!!!!
+S!GND_SIGNAL!C44!2!@parcial2_ks.schematic1(sch_1):ins108102@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F190!!!!!!!!!!
+S!GND_SIGNAL_112609!C45!1!@parcial2_ks.schematic1(sch_1):ins112615@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F189!!!!!!!!!!
+S!GND_SIGNAL_112609!C45!2!@parcial2_ks.schematic1(sch_1):ins112615@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F189!!!!!!!!!!
+S!DP1_VBUS_MON!C46!1!@parcial2_ks.schematic1(sch_1):ins116670@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F188!!!!!!!!!!
+S!GND_SIGNAL_112609!C46!2!@parcial2_ks.schematic1(sch_1):ins116670@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F188!!!!!!!!!!
+S!USB3DN_TX1A_P!C48!1!@parcial2_ks.schematic1(sch_1):ins118288@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F187!!!!!!!!!!
+S!USB3DN_TX1A_P!C48!2!@parcial2_ks.schematic1(sch_1):ins118288@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F187!!!!!!!!!!
+S!USB3DN_TX1A_N!C49!1!@parcial2_ks.schematic1(sch_1):ins118314@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F186!!!!!!!!!!
+S!USB3DN_TX1A_N!C49!2!@parcial2_ks.schematic1(sch_1):ins118314@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F186!!!!!!!!!!
+S!USB3DN_TX1B_N!C50!1!@parcial2_ks.schematic1(sch_1):ins118586@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F185!!!!!!!!!!
+S!USB3DN_TX1B_N!C50!2!@parcial2_ks.schematic1(sch_1):ins118586@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F185!!!!!!!!!!
+S!USB3DN_TX1B_P!C51!1!@parcial2_ks.schematic1(sch_1):ins118618@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F184!!!!!!!!!!
+S!USB3DN_TX1B_P!C51!2!@parcial2_ks.schematic1(sch_1):ins118618@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F184!!!!!!!!!!
+S!5V_BRD_121705!C52!1!@parcial2_ks.schematic1(sch_1):ins121695@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F183!!!!!!!!!!
+S!N122157!C52!2!@parcial2_ks.schematic1(sch_1):ins121695@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F183!!!!!!!!!!
+S!N122546!C53!1!@parcial2_ks.schematic1(sch_1):ins121907@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F182!!!!!!!!!!
+S!GND_SIGNAL_112609!C53!2!@parcial2_ks.schematic1(sch_1):ins121907@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F182!!!!!!!!!!
+S!N122157!C54!1!@parcial2_ks.schematic1(sch_1):ins121933@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F181!!!!!!!!!!
+S!GND_SIGNAL_112609!C54!2!@parcial2_ks.schematic1(sch_1):ins121933@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F181!!!!!!!!!!
+S!N123060!C55!1!@parcial2_ks.schematic1(sch_1):ins123090@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F180!!!!!!!!!!
+S!GND_SIGNAL_112609!C55!2!@parcial2_ks.schematic1(sch_1):ins123090@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F180!!!!!!!!!!
+S!5V_BRD_121705!C56!1!@parcial2_ks.schematic1(sch_1):ins123106@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F179!!!!!!!!!!
+S!N123124!C56!2!@parcial2_ks.schematic1(sch_1):ins123106@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F179!!!!!!!!!!
+S!N123124!C57!1!@parcial2_ks.schematic1(sch_1):ins123174@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F178!!!!!!!!!!
+S!GND_SIGNAL_112609!C57!2!@parcial2_ks.schematic1(sch_1):ins123174@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F178!!!!!!!!!!
+S!USB3DN_TX2_N!C59!1!@parcial2_ks.schematic1(sch_1):ins126822@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F177!!!!!!!!!!
+S!USB3DN_TX2_N!C59!2!@parcial2_ks.schematic1(sch_1):ins126822@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F177!!!!!!!!!!
+S!USB3DN_TX2_P!C60!1!@parcial2_ks.schematic1(sch_1):ins126852@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F176!!!!!!!!!!
+S!USB3DN_TX2_P!C60!2!@parcial2_ks.schematic1(sch_1):ins126852@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F176!!!!!!!!!!
+S!GND_SIGNAL_112609!C61!1!@parcial2_ks.schematic1(sch_1):ins128023@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F175!!!!!!!!!!
+S!N128395!C61!2!@parcial2_ks.schematic1(sch_1):ins128023@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F175!!!!!!!!!!
+S!USB3DN_TX3_N!C62!1!@parcial2_ks.schematic1(sch_1):ins129245@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F174!!!!!!!!!!
+S!USB3DN_TX3_N!C62!2!@parcial2_ks.schematic1(sch_1):ins129245@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F174!!!!!!!!!!
+S!USB3DN_TX3_P!C63!1!@parcial2_ks.schematic1(sch_1):ins129285@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F173!!!!!!!!!!
+S!USB3DN_TX3_P!C63!2!@parcial2_ks.schematic1(sch_1):ins129285@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F173!!!!!!!!!!
+S!GND_SIGNAL_112609!C65!1!@parcial2_ks.schematic1(sch_1):ins129405@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F172!!!!!!!!!!
+S!N129331!C65!2!@parcial2_ks.schematic1(sch_1):ins129405@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F172!!!!!!!!!!
+S!USB3DN_TX4_N!C66!1!@parcial2_ks.schematic1(sch_1):ins130134@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F171!!!!!!!!!!
+S!USB3DN_TX4_N!C66!2!@parcial2_ks.schematic1(sch_1):ins130134@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F171!!!!!!!!!!
+S!USB3DN_TX4_P!C67!1!@parcial2_ks.schematic1(sch_1):ins130174@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F170!!!!!!!!!!
+S!USB3DN_TX4_P!C67!2!@parcial2_ks.schematic1(sch_1):ins130174@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F170!!!!!!!!!!
+S!GND_SIGNAL_112609!C69!1!@parcial2_ks.schematic1(sch_1):ins130294@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F169!!!!!!!!!!
+S!N130220!C69!2!@parcial2_ks.schematic1(sch_1):ins130294@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F169!!!!!!!!!!
+S!GND_SIGNAL_112609!C71!1!@parcial2_ks.schematic1(sch_1):ins131868@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F168!!!!!!!!!!
+S!N131838!C71!2!@parcial2_ks.schematic1(sch_1):ins131868@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F168!!!!!!!!!!
+S!3V3_BRD!C18!1!@parcial2_ks.schematic1(sch_1):ins74761@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F194!!!!!!!!!!
+S!GND_SIGNAL!C18!2!@parcial2_ks.schematic1(sch_1):ins74761@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F194!!!!!!!!!!
+S!VBUS_UP!C19!1!@parcial2_ks.schematic1(sch_1):ins338105@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F193!!!!!!!!!!
+S!GND_SIGNAL!C19!2!@parcial2_ks.schematic1(sch_1):ins338105@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!!!F193!!!!!!!!!!
+S!N108134!R47!1!@parcial2_ks.schematic1(sch_1):ins107797@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F94!!!!!!!!!!
+S!3V3_BRD!R47!2!@parcial2_ks.schematic1(sch_1):ins107797@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F94!!!!!!!!!!
+S!3V3_BRD!R75!1!@parcial2_ks.schematic1(sch_1):ins136277@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F92!!!!!!!!!!
+S!N136335!R75!2!@parcial2_ks.schematic1(sch_1):ins136277@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F92!!!!!!!!!!
+S!3V3_BRD!R85!1!@parcial2_ks.schematic1(sch_1):ins138167@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F90!!!!!!!!!!
+S!N138225!R85!2!@parcial2_ks.schematic1(sch_1):ins138167@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F90!!!!!!!!!!
+S!3V3_BRD!R95!1!@parcial2_ks.schematic1(sch_1):ins140467@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F88!!!!!!!!!!
+S!N140525!R95!2!@parcial2_ks.schematic1(sch_1):ins140467@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F88!!!!!!!!!!
+S!3V3_BRD!R1!1!@parcial2_ks.schematic1(sch_1):ins63195@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F100!!!!!!!!!!
+S!N63264!R1!2!@parcial2_ks.schematic1(sch_1):ins63195@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F100!!!!!!!!!!
+S!N64519!R10!1!@parcial2_ks.schematic1(sch_1):ins65515@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F99!!!!!!!!!!
+S!GND_SIGNAL!R10!2!@parcial2_ks.schematic1(sch_1):ins65515@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F99!!!!!!!!!!
+S!3V3_BRD!R11!1!@parcial2_ks.schematic1(sch_1):ins69308@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F98!!!!!!!!!!
+S!N69428!R11!2!@parcial2_ks.schematic1(sch_1):ins69308@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F98!!!!!!!!!!
+S!3V3_BRD!R12!1!@parcial2_ks.schematic1(sch_1):ins69334@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F97!!!!!!!!!!
+S!N69421!R12!2!@parcial2_ks.schematic1(sch_1):ins69334@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F97!!!!!!!!!!
+S!3V3_BRD!R2!1!@parcial2_ks.schematic1(sch_1):ins63211@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F96!!!!!!!!!!
+S!N63271!R2!2!@parcial2_ks.schematic1(sch_1):ins63211@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F96!!!!!!!!!!
+S!3V3_BRD!R3!1!@parcial2_ks.schematic1(sch_1):ins63227@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F95!!!!!!!!!!
+S!N63278!R3!2!@parcial2_ks.schematic1(sch_1):ins63227@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F95!!!!!!!!!!
+S!GND_SIGNAL!R6!1!@parcial2_ks.schematic1(sch_1):ins63747@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F93!!!!!!!!!!
+S!N63830!R6!2!@parcial2_ks.schematic1(sch_1):ins63747@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F93!!!!!!!!!!
+S!3V3_BRD!R8!1!@parcial2_ks.schematic1(sch_1):ins65463@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F91!!!!!!!!!!
+S!N65433!R8!2!@parcial2_ks.schematic1(sch_1):ins65463@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F91!!!!!!!!!!
+S!N64509!R9!1!@parcial2_ks.schematic1(sch_1):ins65489@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F89!!!!!!!!!!
+S!GND_SIGNAL!R9!2!@parcial2_ks.schematic1(sch_1):ins65489@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!!!F89!!!!!!!!!!
+S!N72173!R13!1!@parcial2_ks.schematic1(sch_1):ins72157@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!!!F73!!!!!!!!!!
+S!GND_SIGNAL!R13!2!@parcial2_ks.schematic1(sch_1):ins72157@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!!!F73!!!!!!!!!!
+S!N63451!R4!1!@parcial2_ks.schematic1(sch_1):ins63409@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!!!F72!!!!!!!!!!
+S!GND_SIGNAL!R4!2!@parcial2_ks.schematic1(sch_1):ins63409@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!!!F72!!!!!!!!!!
+S!N63458!R5!1!@parcial2_ks.schematic1(sch_1):ins63435@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!!!F71!!!!!!!!!!
+S!GND_SIGNAL!R5!2!@parcial2_ks.schematic1(sch_1):ins63435@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!!!F71!!!!!!!!!!
+S!N140649!R100!1!@parcial2_ks.schematic1(sch_1):ins140679@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F87!!!!!!!!!!
+S!GND_SIGNAL!R100!2!@parcial2_ks.schematic1(sch_1):ins140679@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F87!!!!!!!!!!
+S!N140665!R101!1!@parcial2_ks.schematic1(sch_1):ins140695@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F86!!!!!!!!!!
+S!GND_SIGNAL!R101!2!@parcial2_ks.schematic1(sch_1):ins140695@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F86!!!!!!!!!!
+S!VCC1!R27!1!@parcial2_ks.schematic1(sch_1):ins90335@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F83!!!!!!!!!!
+S!N90430!R27!2!@parcial2_ks.schematic1(sch_1):ins90335@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F83!!!!!!!!!!
+S!N91108!R28!1!@parcial2_ks.schematic1(sch_1):ins91110@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F82!!!!!!!!!!
+S!5V_BRD!R28!2!@parcial2_ks.schematic1(sch_1):ins91110@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F82!!!!!!!!!!
+S!N91527!R29!1!@parcial2_ks.schematic1(sch_1):ins91262@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F81!!!!!!!!!!
+S!GND_SIGNAL!R29!2!@parcial2_ks.schematic1(sch_1):ins91262@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F81!!!!!!!!!!
+S!GND_SIGNAL_112609!R52!1!@parcial2_ks.schematic1(sch_1):ins117260@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F80!!!!!!!!!!
+S!N117338!R52!2!@parcial2_ks.schematic1(sch_1):ins117260@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F80!!!!!!!!!!
+S!GND_SIGNAL_112609!R56!1!@parcial2_ks.schematic1(sch_1):ins122015@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F79!!!!!!!!!!
+S!PF4!R56!2!@parcial2_ks.schematic1(sch_1):ins122015@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F79!!!!!!!!!!
+S!GND_SIGNAL_112609!R61!1!@parcial2_ks.schematic1(sch_1):ins123244@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F78!!!!!!!!!!
+S!PF3!R61!2!@parcial2_ks.schematic1(sch_1):ins123244@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F78!!!!!!!!!!
+S!N136459!R80!1!@parcial2_ks.schematic1(sch_1):ins136489@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F77!!!!!!!!!!
+S!GND_SIGNAL!R80!2!@parcial2_ks.schematic1(sch_1):ins136489@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F77!!!!!!!!!!
+S!N136475!R81!1!@parcial2_ks.schematic1(sch_1):ins136505@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F76!!!!!!!!!!
+S!GND_SIGNAL!R81!2!@parcial2_ks.schematic1(sch_1):ins136505@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F76!!!!!!!!!!
+S!N138349!R90!1!@parcial2_ks.schematic1(sch_1):ins138379@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F75!!!!!!!!!!
+S!GND_SIGNAL!R90!2!@parcial2_ks.schematic1(sch_1):ins138379@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F75!!!!!!!!!!
+S!N138365!R91!1!@parcial2_ks.schematic1(sch_1):ins138395@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F74!!!!!!!!!!
+S!GND_SIGNAL!R91!2!@parcial2_ks.schematic1(sch_1):ins138395@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F74!!!!!!!!!!
+S!3V3_BRD!R14!1!@parcial2_ks.schematic1(sch_1):ins78765@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F85!!!!!!!!!!
+S!N78836!R14!2!@parcial2_ks.schematic1(sch_1):ins78765@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F85!!!!!!!!!!
+S!GND_SIGNAL!R15!1!@parcial2_ks.schematic1(sch_1):ins337953@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F84!!!!!!!!!!
+S!N337903!R15!2!@parcial2_ks.schematic1(sch_1):ins337953@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!!!F84!!!!!!!!!!
+S!VBUS_DET!R16!1!@parcial2_ks.schematic1(sch_1):ins337995@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_43K!!!F70!!!!!!!!!!
+S!VBUS_UP!R16!2!@parcial2_ks.schematic1(sch_1):ins337995@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_43K!!!F70!!!!!!!!!!
+S!N337092!R20!1!@parcial2_ks.schematic1(sch_1):ins337070@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_43K!!!F69!!!!!!!!!!
+S!VBUS_UP!R20!2!@parcial2_ks.schematic1(sch_1):ins337070@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_43K!!!F69!!!!!!!!!!
+S!GND_SIGNAL!R17!1!@parcial2_ks.schematic1(sch_1):ins338089@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_49K9!!!F68!!!!!!!!!!
+S!VBUS_DET!R17!2!@parcial2_ks.schematic1(sch_1):ins338089@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_49K9!!!F68!!!!!!!!!!
+S!GND_SIGNAL!R21!1!@parcial2_ks.schematic1(sch_1):ins337102@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_49K9!!!F67!!!!!!!!!!
+S!N337092!R21!2!@parcial2_ks.schematic1(sch_1):ins337102@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_49K9!!!F67!!!!!!!!!!
+S!N92353!R33!1!@parcial2_ks.schematic1(sch_1):ins92299@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F64!!!!!!!!!!
+S!N92319!R33!2!@parcial2_ks.schematic1(sch_1):ins92299@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F64!!!!!!!!!!
+S!N92825!R35!1!@parcial2_ks.schematic1(sch_1):ins92788@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F63!!!!!!!!!!
+S!N92829!R35!2!@parcial2_ks.schematic1(sch_1):ins92788@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F63!!!!!!!!!!
+S!N94198!R37!1!@parcial2_ks.schematic1(sch_1):ins93976@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F62!!!!!!!!!!
+S!N94203!R37!2!@parcial2_ks.schematic1(sch_1):ins93976@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F62!!!!!!!!!!
+S!5V_BRD!R39!1!@parcial2_ks.schematic1(sch_1):ins94322@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F61!!!!!!!!!!
+S!N94347!R39!2!@parcial2_ks.schematic1(sch_1):ins94322@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F61!!!!!!!!!!
+S!5V_BRD!R46!1!@parcial2_ks.schematic1(sch_1):ins105053@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F60!!!!!!!!!!
+S!N105244!R46!2!@parcial2_ks.schematic1(sch_1):ins105053@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F60!!!!!!!!!!
+S!VBUS_DET!R18!1!@parcial2_ks.schematic1(sch_1):ins337873@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F66!!!!!!!!!!
+S!N337903!R18!2!@parcial2_ks.schematic1(sch_1):ins337873@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F66!!!!!!!!!!
+S!VBUS_DET!R19!1!@parcial2_ks.schematic1(sch_1):ins337917@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F65!!!!!!!!!!
+S!PF30!R19!2!@parcial2_ks.schematic1(sch_1):ins337917@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!!!F65!!!!!!!!!!
+S!N94586!R42!1!@parcial2_ks.schematic1(sch_1):ins94546@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_12K!!!F50!!!!!!!!!!
+S!GND_SIGNAL!R42!2!@parcial2_ks.schematic1(sch_1):ins94546@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_12K!!!F50!!!!!!!!!!
+S!GND_SIGNAL!R7!1!@parcial2_ks.schematic1(sch_1):ins63773@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_12K!!!F49!!!!!!!!!!
+S!N63808!R7!2!@parcial2_ks.schematic1(sch_1):ins63773@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_12K!!!F49!!!!!!!!!!
+S!VCC1!D8!2!@parcial2_ks.schematic1(sch_1):ins163541@mur160s_r4.\mur160s_r4.normal\(chips)!MUR160S_R4_DIOM5443X265N_MUR160S_R4!!!F124!!!!!!!!!!
+S!N92548!D8!1!@parcial2_ks.schematic1(sch_1):ins163541@mur160s_r4.\mur160s_r4.normal\(chips)!MUR160S_R4_DIOM5443X265N_MUR160S_R4!!!F124!!!!!!!!!!
+S!3V3_BRD!D9!1!@parcial2_ks.schematic1(sch_1):ins170679@bav70_rf.\bav70_rf.normal\(chips)!BAV70_RF_BAV70RF_BAV70_RF!!!F123!!!!!!!!!!
+S!GND_SIGNAL_112609!D9!2!@parcial2_ks.schematic1(sch_1):ins170679@bav70_rf.\bav70_rf.normal\(chips)!BAV70_RF_BAV70RF_BAV70_RF!!!F123!!!!!!!!!!
+S!DP1_VBUS_MON!D9!3!@parcial2_ks.schematic1(sch_1):ins170679@bav70_rf.\bav70_rf.normal\(chips)!BAV70_RF_BAV70RF_BAV70_RF!!!F123!!!!!!!!!!
+S!N65433!IC1!1!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!GND_SIGNAL!IC1!9!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!N69421!IC1!7!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!N64509!IC1!6!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!N65407!IC1!5!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!N64519!IC1!2!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!3V3_BRD!IC1!8!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!GND_SIGNAL!IC1!4!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!N69428!IC1!3!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!!!F122!!!!!!!!!!
+S!N136363!IC2!20!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N136447!IC2!16!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N136335!IC2!13!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N136367!IC2!3!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!GND_SIGNAL!IC2!2!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!GND_SIGNAL!IC2!14!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!GND_SIGNAL!IC2!17!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N136275!IC2!1!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N136271!IC2!15!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N136459!IC2!19!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N136475!IC2!18!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!VBUS1!IC2!4!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!VBUS1!IC2!5!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!VBUS2!IC2!11!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!VBUS2!IC2!12!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!5V_BRD_121705!IC2!8!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!5V_BRD_121705!IC2!6!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!5V_BRD_121705!IC2!7!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!5V_BRD_121705!IC2!9!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!5V_BRD_121705!IC2!10!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F121!!!!!!!!!!
+S!N138253!IC7!20!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N138337!IC7!16!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N138225!IC7!13!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N138257!IC7!3!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!GND_SIGNAL!IC7!2!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!GND_SIGNAL!IC7!14!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!GND_SIGNAL!IC7!17!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N138165!IC7!1!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N138161!IC7!15!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N138349!IC7!19!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N138365!IC7!18!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!VBUS3!IC7!4!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!VBUS3!IC7!5!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!VBUS4!IC7!11!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!VBUS4!IC7!12!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!5V_BRD_121705!IC7!8!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!5V_BRD_121705!IC7!6!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!5V_BRD_121705!IC7!7!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!5V_BRD_121705!IC7!9!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!5V_BRD_121705!IC7!10!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F120!!!!!!!!!!
+S!N140553!IC8!20!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N140637!IC8!16!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N140525!IC8!13!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N140557!IC8!3!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!GND_SIGNAL!IC8!2!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!GND_SIGNAL!IC8!14!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!GND_SIGNAL!IC8!17!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N140465!IC8!1!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N140461!IC8!15!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N140649!IC8!19!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N140665!IC8!18!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!VBUS5!IC8!4!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!VBUS5!IC8!5!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!VBUS6!IC8!11!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!VBUS6!IC8!12!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!5V_BRD_121705!IC8!8!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!5V_BRD_121705!IC8!6!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!5V_BRD_121705!IC8!7!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!5V_BRD_121705!IC8!9!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!5V_BRD_121705!IC8!10!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!!!F119!!!!!!!!!!
+S!N92825!IC5!17!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N92544!IC5!20!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N92080!IC5!9!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N95013!IC5!7!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N91735!IC5!2!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!GND_SIGNAL!IC5!21!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N94586!IC5!8!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N90279!IC5!10!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!GND_SIGNAL!IC5!12!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!VIN!IC5!1!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N90430!IC5!11!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!GND_SIGNAL!IC5!16!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N94203!IC5!15!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N94347!IC5!14!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!GND_SIGNAL!IC5!5!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N95006!IC5!6!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N92757!IC5!18!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N91527!IC5!13!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N92353!IC5!19!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!VCC1!IC5!4!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!N91108!IC5!3!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!!!F118!!!!!!!!!!
+S!GND_SIGNAL!IC6!7!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!N105244!IC6!2!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!GND_SIGNAL!IC6!11!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!N107878!IC6!4!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!N108134!IC6!5!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!GND_SIGNAL!IC6!10!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!VDDCORE!IC6!3!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!N105248!IC6!6!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!5V_BRD!IC6!8!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!N250881!IC6!1!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!5V_BRD!IC6!9!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!!!F117!!!!!!!!!!
+S!USB2UP_P!J1!3!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!USB2UP_N!J1!2!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!GND_SIGNAL!J1!4!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!GND_SIGNAL!J1!7!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!GND_SIGNAL!J1!MH1!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!GND_SIGNAL!J1!MH2!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!USB3UP_RX_P!J1!6!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!USB3UP_RX_N!J1!5!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!USB3UP_TX_P!J1!9!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!USB3UP_TX_N!J1!8!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!VBUS_UP!J1!1!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!!!F116!!!!!!!!!!
+S!USB2DN/PRT_DIS_2_P!J2!3!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!USB2DN/PRT_DIS_2_N!J2!2!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!GND_SIGNAL_112609!J2!4!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!GND_SIGNAL_112609!J2!7!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!N128395!J2!S1!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!GND_SIGNAL_112609!J2!S2!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!USB3DN_RX2_P!J2!6!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!USB3DN_RX2_N!J2!5!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!USB3DN_TX2_P!J2!9!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!USB3DN_TX2_N!J2!8!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!VBUS2!J2!1!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F115!!!!!!!!!!
+S!USB2DN/PRT_DIS_3_P!J3!3!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!USB2DN/PRT_DIS_3_N!J3!2!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!GND_SIGNAL_112609!J3!4!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!GND_SIGNAL_112609!J3!7!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!N129331!J3!S1!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!GND_SIGNAL_112609!J3!S2!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!USB3DN_RX3_P!J3!6!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!USB3DN_RX3_N!J3!5!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!USB3DN_TX3_P!J3!9!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!USB3DN_TX3_N!J3!8!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!VBUS3!J3!1!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F114!!!!!!!!!!
+S!USB2DN/PRT_DIS_4_P!J4!3!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!USB2DN/PRT_DIS_4_N!J4!2!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!GND_SIGNAL_112609!J4!4!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!GND_SIGNAL_112609!J4!7!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!N130220!J4!S1!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!GND_SIGNAL_112609!J4!S2!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!USB3DN_RX4_P!J4!6!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!USB3DN_RX4_N!J4!5!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!USB3DN_TX4_P!J4!9!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!USB3DN_TX4_N!J4!8!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!VBUS4!J4!1!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!!!F113!!!!!!!!!!
+S!VBUS5!J5!1!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F112!!!!!!!!!!
+S!USB2DN/PRT_DIS_5_N!J5!2!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F112!!!!!!!!!!
+S!USB2DN/PRT_DIS_5_P!J5!3!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F112!!!!!!!!!!
+S!GND_SIGNAL_112609!J5!4!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F112!!!!!!!!!!
+S!!J5!MH1!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F112!!!!!!!!!!
+S!!J5!MH2!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F112!!!!!!!!!!
+S!N131838!J5!5!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F112!!!!!!!!!!
+S!VBUS6!J6!1!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F111!!!!!!!!!!
+S!USB2DN/PRT_DIS_6_N!J6!2!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F111!!!!!!!!!!
+S!USB2DN/PRT_DIS_6_P!J6!3!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F111!!!!!!!!!!
+S!GND_SIGNAL_112609!J6!4!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F111!!!!!!!!!!
+S!!J6!MH1!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F111!!!!!!!!!!
+S!!J6!MH2!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F111!!!!!!!!!!
+S!N134726!J6!5!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!!!F111!!!!!!!!!!
+S!N92757!Q10!3!@parcial2_ks.schematic1(sch_1):ins163376@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F107!!!!!!!!!!
+S!N92829!Q10!1!@parcial2_ks.schematic1(sch_1):ins163376@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F107!!!!!!!!!!
+S!GND_SIGNAL!Q10!2!@parcial2_ks.schematic1(sch_1):ins163376@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F107!!!!!!!!!!
+S!N123200!Q11!3!@parcial2_ks.schematic1(sch_1):ins171628@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F106!!!!!!!!!!
+S!PF3!Q11!1!@parcial2_ks.schematic1(sch_1):ins171628@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F106!!!!!!!!!!
+S!GND_SIGNAL_112609!Q11!2!@parcial2_ks.schematic1(sch_1):ins171628@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F106!!!!!!!!!!
+S!N122386!Q13!3!@parcial2_ks.schematic1(sch_1):ins173004@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F105!!!!!!!!!!
+S!PF4!Q13!1!@parcial2_ks.schematic1(sch_1):ins173004@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F105!!!!!!!!!!
+S!GND_SIGNAL_112609!Q13!2!@parcial2_ks.schematic1(sch_1):ins173004@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F105!!!!!!!!!!
+S!N117334!Q8!3!@parcial2_ks.schematic1(sch_1):ins162322@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F104!!!!!!!!!!
+S!N117338!Q8!1!@parcial2_ks.schematic1(sch_1):ins162322@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F104!!!!!!!!!!
+S!GND_SIGNAL_112609!Q8!2!@parcial2_ks.schematic1(sch_1):ins162322@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F104!!!!!!!!!!
+S!N104117!Q9!3!@parcial2_ks.schematic1(sch_1):ins163168@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F103!!!!!!!!!!
+S!N92319!Q9!1!@parcial2_ks.schematic1(sch_1):ins163168@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F103!!!!!!!!!!
+S!N92757!Q9!2!@parcial2_ks.schematic1(sch_1):ins163168@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!!!F103!!!!!!!!!!
+S!N122546!Q12!3!@parcial2_ks.schematic1(sch_1):ins172130@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!!!F102!!!!!!!!!!
+S!N122157!Q12!1!@parcial2_ks.schematic1(sch_1):ins172130@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!!!F102!!!!!!!!!!
+S!5V_BRD_121705!Q12!2!@parcial2_ks.schematic1(sch_1):ins172130@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!!!F102!!!!!!!!!!
+S!N123060!Q14!3!@parcial2_ks.schematic1(sch_1):ins173761@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!!!F101!!!!!!!!!!
+S!N123124!Q14!1!@parcial2_ks.schematic1(sch_1):ins173761@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!!!F101!!!!!!!!!!
+S!5V_BRD_121705!Q14!2!@parcial2_ks.schematic1(sch_1):ins173761@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!!!F101!!!!!!!!!!
+S!!U3!5!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!N100571!U3!8!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!GND_SIGNAL!U3!7!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!N100947!U3!3!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!N364346!U3!2!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!!U3!6!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!5V_BRD!U3!4!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!3V3_BRD!U3!1!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!!!F3!!!!!!!!!!
+S!GND_SIGNAL!Y1!2!@parcial2_ks.schematic1(sch_1):ins74272@parcial2_ks.\dsc1001ci2-025_0.0000.normal\(chips)!DSC1001CI2-025_0.0000_DSC1001CI20250000_DSC1001CI2-025.0000!!!F0!!!!!!!!!!
+S!25MHZ!Y1!3!@parcial2_ks.schematic1(sch_1):ins74272@parcial2_ks.\dsc1001ci2-025_0.0000.normal\(chips)!DSC1001CI2-025_0.0000_DSC1001CI20250000_DSC1001CI2-025.0000!!!F0!!!!!!!!!!
+S!3V3_BRD!Y1!1!@parcial2_ks.schematic1(sch_1):ins74272@parcial2_ks.\dsc1001ci2-025_0.0000.normal\(chips)!DSC1001CI2-025_0.0000_DSC1001CI20250000_DSC1001CI2-025.0000!!!F0!!!!!!!!!!
+S!3V3_BRD!Y1!4!@parcial2_ks.schematic1(sch_1):ins74272@parcial2_ks.\dsc1001ci2-025_0.0000.normal\(chips)!DSC1001CI2-025_0.0000_DSC1001CI20250000_DSC1001CI2-025.0000!!!F0!!!!!!!!!!

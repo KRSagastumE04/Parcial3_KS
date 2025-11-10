@@ -1,0 +1,94 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : parcial2_ks.brd                               )
+(    Software Version : 24.1S006                                      )
+(    Date/Time        : Mon Nov 10 14:34:41 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'c:\candencecircuits\parcial2_2025\allegro'
+Design Directory:            'c:/candencecircuits/parcial2_2025/allegro'
+Old design name:             'c:/candencecircuits/parcial2_2025/allegro/parcial2_ks.brd'
+New design name:             'c:/candencecircuits/parcial2_2025/allegro/parcial2_ks.brd'
+
+CmdLine: netrev -y 1 -i c:\candencecircuits\parcial2_2025\allegro -q netrev_constraint_report.xml c:/candencecircuits/parcial2_2025/allegro/#Taaaaak01484.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read c:/candencecircuits/parcial2_2025/allegro/pstchip.dat 
+   Finished reading c:/candencecircuits/parcial2_2025/allegro/pstchip.dat (00:00:00.11)
+Starting to read c:/candencecircuits/parcial2_2025/allegro/pstxprt.dat 
+   Finished reading c:/candencecircuits/parcial2_2025/allegro/pstxprt.dat (00:00:00.00)
+Starting to read c:/candencecircuits/parcial2_2025/allegro/pstxnet.dat 
+   Finished reading c:/candencecircuits/parcial2_2025/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/orcadx_24.1/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_24.1/share/local/pcb/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/allegrolib/symbols 
+           C:/candencecircuits/cad_library 
+           C:/OrCAD_Libraries 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_24.1/share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_24.1/share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_24.1/share/pcb/allegrolib/symbols 
+           C:/candencecircuits/cad_library 
+           C:/OrCAD_Libraries 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Nov 10 14:34:41 2025
+   DESIGN NAME : 'PARCIAL2_KS'
+   PACKAGING ON Jul 24 2025 22:28:05
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:41
+elapsed time  0:00:00
+

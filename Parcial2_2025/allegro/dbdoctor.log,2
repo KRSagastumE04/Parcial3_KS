@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : parcial2_ks.brd                               )
+(    Software Version : 24.1S006                                      )
+(    Date/Time        : Mon Nov 10 14:48:01 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 19   after update: 19
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+0 warnings, 0 errors detected, 0 errors  fixed.

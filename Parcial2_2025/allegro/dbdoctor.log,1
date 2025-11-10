@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : parcial2_ks.brd                               )
+(    Software Version : 24.1S006                                      )
+(    Date/Time        : Mon Nov 10 14:44:00 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in SHAPE (no segment)
+  class = PACKAGE GEOMETRY
+  subclass = PLACE_BOUND_TOP 
+  WARNING(SPMHA1-62): Illegal parent identifier.
+   Error was fixed, object was deleted.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 19   after update: 19
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    18
+  DRC elapsed time:      00:00:01
+
+0 warnings, 1 errors detected, 1 errors  fixed.

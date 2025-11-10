@@ -1,0 +1,15 @@
+{ Using PSTWRITER 24.1.0 d001Nov-10-2025 at 14:34:38 }
+
+INFO(ORCAP-36102): 'Differential Pair' DRC check Warnings:
+INFO(ORCAP-17055): Differential pair USB3DN_RX1A has only one net USB3DN_RX1A_N associated with it. A valid differential pair must have two nets associated with it. 
+
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... c:\candencecircuits\parcial2_2025\allegro\pstchip.dat
+
+Loading... c:\candencecircuits\parcial2_2025\allegro\pstchip.dat
+
+Loading... c:\candencecircuits\parcial2_2025\allegro\pstxprt.dat
+
+Loading... c:\candencecircuits\parcial2_2025\allegro\pstxnet.dat
+packaging the design view...

@@ -1,0 +1,2992 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 24.1.0 d001Nov-10-2025 at 14:34:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PARCIAL2_KS';
+ POST_TIME='Jul 24 2025 22:28:05';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS62687@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins62687@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins62687@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1240,320,1260,330)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67538@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67538@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67538@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1260,450,1280,460)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67564@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67564@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67564@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1280,450,1300,460)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67590@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67590@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67590@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,450,1320,460)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67616@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67616@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67616@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1320,450,1340,460)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67642@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67642@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67642@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1340,450,1360,460)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67668@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67668@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67668@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1360,450,1380,460)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67694@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67694@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67694@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1380,450,1400,460)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS69386@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins69386@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins69386@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,270)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,270,410,280)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS74761@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins74761@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins74761@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(670,440)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(670,440,690,450)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS338105@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins338105@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins338105@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(380,720)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(380,720,400,730)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS66228@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins66228@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins66228@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1260,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1260,320,1280,330)',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_CAPC0603X33N_4U7':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402686@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402686@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402686@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1884,298)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1884,298,1904,308)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_CAPC0603X33N_4U7':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402702@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402702@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402702@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1904,298)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1904,298,1924,308)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_CAPC0603X33N_0U47':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402718@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402718@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402718@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1924,298)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1924,298,1944,308)',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_CAPC0603X33N_1U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402916@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402916@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402916@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1994,328)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1994,328,2014,338)',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_CAPC0603X33N_4U7':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403324@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403324@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403324@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2034,408)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2034,408,2054,418)',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_CAPC0603X33N_1U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403048@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403048@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403048@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2424,348)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2424,348,2444,358)',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_CAPC0603X33N_220P':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403384@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403384@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403384@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2594,428)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2594,428,2614,438)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS66254@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins66254@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins66254@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1280,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1280,320,1300,330)',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_CAPC0603X33N_220P':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403648@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403648@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403648@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2364,608)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2364,608,2384,618)',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_CAPC0603X33N_680P':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403664@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403664@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403664@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2384,608)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2384,608,2404,618)',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_CAPC0603X33N_22U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403234@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403234@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403234@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2914,378)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2914,378,2934,388)',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP POL_CAPC0603X33N_220U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403130@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403130@discrete.\cap pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403130@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2884,368)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2884,368,2904,388)',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_CAPC0603X33N_22U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403858@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403858@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403858@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1914,818)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1914,818,1934,828)',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_CAPC0603X33N_22U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403894@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403894@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403894@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2244,838)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2244,838,2264,848)',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402506@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402506@discrete.\cap pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402506@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2514,198)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2514,198,2534,218)',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_CAPC0603X33N_22U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404214@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404214@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404214@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1964,1038)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1964,1038,1984,1048)',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404230@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404230@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404230@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1984,1038)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1984,1038,2004,1048)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS66280@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins66280@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins66280@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1300,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1300,320,1320,330)',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404246@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404246@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404246@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2004,1038)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2004,1038,2024,1048)',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_CAPC0603X33N_22U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404262@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404262@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404262@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2024,1038)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2024,1038,2044,1048)',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_CAPC0603X33N_22U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404398@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404398@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404398@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2074,1088)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2074,1088,2094,1098)',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_CAPC0603X33N_22U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404302@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404302@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404302@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2374,1038)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2374,1038,2394,1048)',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404318@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404318@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404318@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2394,1038)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2394,1038,2414,1048)',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417156@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417156@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417156@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2209,2068)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2209,2068,2229,2078)',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416266@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416266@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416266@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1469,1828)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1469,1828,1489,1838)',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP NP_CAPC0603X33N_10U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS415884@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins415884@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins415884@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1869,1748)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1869,1748,1889,1758)',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416314@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416314@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416314@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1809,1838)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1809,1838,1819,1858)',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416358@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416358@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416358@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1849,1848)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1849,1848,1859,1868)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS66306@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins66306@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins66306@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1320,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1320,320,1340,330)',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416648@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416648@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416648@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1809,1928)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1809,1928,1819,1948)',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416700@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416700@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416700@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1849,1938)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1849,1938,1859,1958)',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417190@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417190@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417190@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1379,2078)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1379,2078,1399,2088)',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417132@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417132@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417132@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1499,2068)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1499,2068,1519,2078)',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417388@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417388@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417388@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1369,2138)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1369,2138,1389,2148)',
+ SECTION='';
+
+PART_NAME
+ C55 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418020@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418020@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418020@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1499,2428)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1499,2428,1519,2438)',
+ SECTION='';
+
+PART_NAME
+ C56 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418056@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418056@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418056@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1379,2438)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1379,2438,1399,2448)',
+ SECTION='';
+
+PART_NAME
+ C57 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418218@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418218@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418218@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1369,2498)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1369,2498,1389,2508)',
+ SECTION='';
+
+PART_NAME
+ C58 'CAP POL_CAPC0603X33N_150U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416490@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416490@discrete.\cap pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416490@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2869,1878)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2869,1878,2889,1898)',
+ SECTION='';
+
+PART_NAME
+ C59 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416182@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416182@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416182@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2769,1808)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2769,1808,2779,1828)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS66332@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins66332@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins66332@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1340,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1340,320,1360,330)',
+ SECTION='';
+
+PART_NAME
+ C60 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416250@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416250@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416250@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2789,1818)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2789,1818,2799,1838)',
+ SECTION='';
+
+PART_NAME
+ C61 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416582@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416582@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416582@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2979,1908)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2979,1908,2989,1928)',
+ SECTION='';
+
+PART_NAME
+ C62 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417264@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417264@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417264@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2789,2098)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2789,2098,2799,2118)',
+ SECTION='';
+
+PART_NAME
+ C63 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417330@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417330@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417330@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2829,2108)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2829,2108,2839,2128)',
+ SECTION='';
+
+PART_NAME
+ C64 'CAP POL_CAPC0603X33N_150U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417462@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417462@discrete.\cap pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417462@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2889,2168)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2889,2168,2909,2188)',
+ SECTION='';
+
+PART_NAME
+ C65 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417548@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417548@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417548@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2999,2198)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2999,2198,3009,2218)',
+ SECTION='';
+
+PART_NAME
+ C66 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417820@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417820@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417820@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2779,2388)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2779,2388,2789,2408)',
+ SECTION='';
+
+PART_NAME
+ C67 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417938@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417938@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417938@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2819,2398)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2819,2398,2829,2418)',
+ SECTION='';
+
+PART_NAME
+ C68 'CAP POL_CAPC0603X33N_150U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418106@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418106@discrete.\cap pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418106@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2879,2458)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2879,2458,2899,2478)',
+ SECTION='';
+
+PART_NAME
+ C69 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418202@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418202@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418202@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2989,2488)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2989,2488,2999,2508)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS66358@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins66358@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins66358@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1360,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1360,320,1380,330)',
+ SECTION='';
+
+PART_NAME
+ C70 'CAP POL_CAPC0603X33N_150U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418486@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418486@discrete.\cap pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418486@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2899,2658)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2899,2658,2919,2678)',
+ SECTION='';
+
+PART_NAME
+ C71 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418560@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418560@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418560@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2989,2698)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2989,2698,2999,2718)',
+ SECTION='';
+
+PART_NAME
+ C72 'CAP POL_CAPC0603X33N_150U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418734@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418734@discrete.\cap pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418734@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2899,2848)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2899,2848,2919,2868)',
+ SECTION='';
+
+PART_NAME
+ C73 'CAP NP_CAPC0603X33N_0U1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418790@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418790@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418790@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2989,2888)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2989,2888,2999,2908)',
+ SECTION='';
+
+PART_NAME
+ C74 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407633@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407633@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407633@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3398,195)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3398,195,3418,205)',
+ SECTION='';
+
+PART_NAME
+ C75 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407649@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407649@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407649@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3418,195)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3418,195,3438,205)',
+ SECTION='';
+
+PART_NAME
+ C76 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407665@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407665@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407665@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3438,195)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3438,195,3458,205)',
+ SECTION='';
+
+PART_NAME
+ C77 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407681@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407681@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407681@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3458,195)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3458,195,3478,205)',
+ SECTION='';
+
+PART_NAME
+ C78 'CAPACITOR NON-POL_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407697@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407697@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407697@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3488,195)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3488,195,3508,205)',
+ SECTION='';
+
+PART_NAME
+ C79 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408329@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408329@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408329@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3358,595)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3358,595,3378,605)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS66384@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins66384@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins66384@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1380,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1380,320,1400,330)',
+ SECTION='';
+
+PART_NAME
+ C80 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408345@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408345@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408345@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3378,595)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3378,595,3398,605)',
+ SECTION='';
+
+PART_NAME
+ C81 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408361@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408361@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408361@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3398,595)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3398,595,3418,605)',
+ SECTION='';
+
+PART_NAME
+ C82 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408377@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408377@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408377@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3418,595)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3418,595,3438,605)',
+ SECTION='';
+
+PART_NAME
+ C83 'CAPACITOR NON-POL_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408393@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408393@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408393@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3448,595)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3448,595,3468,605)',
+ SECTION='';
+
+PART_NAME
+ C84 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409025@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409025@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409025@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3358,1015)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3358,1015,3378,1025)',
+ SECTION='';
+
+PART_NAME
+ C85 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409041@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409041@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409041@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3378,1015)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3378,1015,3398,1025)',
+ SECTION='';
+
+PART_NAME
+ C86 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409057@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409057@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409057@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3398,1015)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3398,1015,3418,1025)',
+ SECTION='';
+
+PART_NAME
+ C87 'CAPACITOR NON-POL_CAPC0603X33N_47U':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409073@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409073@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409073@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3418,1015)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3418,1015,3438,1025)',
+ SECTION='';
+
+PART_NAME
+ C88 'CAPACITOR NON-POL_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409089@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409089@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409089@discrete.\capacitor non-pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3448,1015)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3448,1015,3468,1025)',
+ SECTION='';
+
+PART_NAME
+ C89 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS228205@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins228205@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins228205@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1400,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1400,450,1420,460)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CAPC0603X33N_100N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS67512@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins67512@discrete.\cap np.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins67512@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1240,450)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1240,450,1260,460)',
+ SECTION='';
+
+PART_NAME
+ D10 'DFLS1150-7_DIOM5443X265N_DIOM5226X230N':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403162@DFLS1150-7.DFLS1150-7.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403162@\dfls1150-7\.\dfls1150-7.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403162@\dfls1150-7\.\dfls1150-7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2624,378)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2624,378,2644,418)',
+ SECTION='';
+
+PART_NAME
+ D11 '1N4148W_SOD3716X135N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416846@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416846@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416846@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1559,2028)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1559,2028,1599,2048)',
+ SECTION='';
+
+PART_NAME
+ D12 '1N4148W_SOD3716X135N_1N4148W':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417878@1N4148W.1N4148W.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417878@\1n4148w\.\1n4148w.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417878@\1n4148w\.\1n4148w.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1549,2398)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1549,2398,1589,2418)',
+ SECTION='';
+
+PART_NAME
+ D8 'MUR160S_R4_DIOM5443X265N_MUR160S_R4':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402806@MUR160S_R4.MUR160S_R4.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402806@mur160s_r4.\mur160s_r4.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402806@mur160s_r4.\mur160s_r4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2454,308)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2454,308,2494,328)',
+ SECTION='';
+
+PART_NAME
+ D9 'BAV70_RF_BAV70RF_BAV70_RF':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416050@BAV70_RF.BAV70_RF.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416050@bav70_rf.\bav70_rf.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416050@bav70_rf.\bav70_rf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1349,1788)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1349,1788,1419,1818)',
+ SECTION='';
+
+PART_NAME
+ IC1 'SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS65197@PARCIAL2_KS.SST26VF016B-104I_MF_0.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,320)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,320,580,400)',
+ SECTION='';
+
+PART_NAME
+ IC2 'UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407441@BLOQUE1_EJEMPLO.UCS2114T-1-V_LX_3.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407441@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407441@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3648,135)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3648,135,3768,375)',
+ SECTION='';
+
+PART_NAME
+ IC5 'MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402568@PARCIAL2_KS.MP2908AGF-Z_6.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402568@parcial2_ks.\mp2908agf-z_6.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402568@parcial2_ks.\mp2908agf-z_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2184,268)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2184,268,2334,598)',
+ SECTION='';
+
+PART_NAME
+ IC6 'MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404068@PARCIAL2_KS.MIC23201YML-TR_2.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404068@parcial2_ks.\mic23201yml-tr_2.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404068@parcial2_ks.\mic23201yml-tr_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2144,998)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2144,998,2224,1138)',
+ SECTION='';
+
+PART_NAME
+ IC7 'UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408137@BLOQUE1_EJEMPLO.UCS2114T-1-V_LX_3.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408137@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408137@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3608,535)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3608,535,3728,775)',
+ SECTION='';
+
+PART_NAME
+ IC8 'UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408833@BLOQUE1_EJEMPLO.UCS2114T-1-V_LX_3.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408833@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408833@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3608,955)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3608,955,3728,1195)',
+ SECTION='';
+
+PART_NAME
+ J1 '0484050003_2_0484050003_0484050003':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS338015@PARCIAL2_KS.0484050003_2.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins338015@parcial2_ks.\0484050003_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(450,680)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(450,680,580,770)',
+ SECTION='';
+
+PART_NAME
+ J2 'USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS415850@PARCIAL2_KS.USB1086-GF-B_REVA_0.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins415850@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins415850@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2949,1738)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2949,1738,3029,1868)',
+ SECTION='';
+
+PART_NAME
+ J3 'USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416898@PARCIAL2_KS.USB1086-GF-B_REVA_0.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416898@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416898@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2969,2028)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2969,2028,3049,2158)',
+ SECTION='';
+
+PART_NAME
+ J4 'USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417674@PARCIAL2_KS.USB1086-GF-B_REVA_0.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417674@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417674@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2959,2318)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2959,2318,3039,2448)',
+ SECTION='';
+
+PART_NAME
+ J5 'UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418346@PARCIAL2_KS.UE27-AE54-10H_0.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418346@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418346@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2959,2588)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(2959,2588,3009,2638)',
+ SECTION='';
+
+PART_NAME
+ J6 'UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418618@PARCIAL2_KS.UE27-AE54-10H_0.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418618@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418618@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2959,2778)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(2959,2778,3009,2828)',
+ SECTION='';
+
+PART_NAME
+ L6 'LQW18AN22NJ10D_0_AISC-0603HP_LQW18AN22NJ10D':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402880@PARCIAL2_KS.LQW18AN22NJ10D_0.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402880@parcial2_ks.\lqw18an22nj10d_0.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402880@parcial2_ks.\lqw18an22nj10d_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2664,318)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2664,318,2704,328)',
+ SECTION='';
+
+PART_NAME
+ L7 'LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403946@LQW18AN22NJ10D.LQW18AN22NJ10D.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403946@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403946@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2134,878)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2134,878,2174,888)',
+ SECTION='';
+
+PART_NAME
+ L8 'LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404020@LQW18AN22NJ10D.LQW18AN22NJ10D.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404020@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404020@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2264,978)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2264,978,2304,988)',
+ SECTION='';
+
+PART_NAME
+ Q10 'IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403096@IRLML2502TRPBF.IRLML2502TRPBF.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403096@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403096@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2504,368)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2504,368,2534,408)',
+ SECTION='';
+
+PART_NAME
+ Q11 'IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418276@IRLML2502TRPBF.IRLML2502TRPBF.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418276@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418276@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1409,2548)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1409,2548,1439,2588)',
+ SECTION='';
+
+PART_NAME
+ Q12 'BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416816@BSS314PEH6327XTSA1.BSS314PEH6327XTSA1.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416816@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416816@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1419,2028)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1419,2028,1459,2058)',
+ SECTION='';
+
+PART_NAME
+ Q13 'IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417494@IRLML2502TRPBF.IRLML2502TRPBF.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417494@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417494@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1409,2188)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1409,2188,1439,2228)',
+ SECTION='';
+
+PART_NAME
+ Q14 'BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417848@BSS314PEH6327XTSA1.BSS314PEH6327XTSA1.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417848@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417848@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1419,2398)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(1419,2398,1459,2428)',
+ SECTION='';
+
+PART_NAME
+ Q8 'IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416112@IRLML2502TRPBF.IRLML2502TRPBF.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416112@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416112@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1539,1798)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1539,1798,1569,1838)',
+ SECTION='';
+
+PART_NAME
+ Q9 'IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402526@IRLML2502TRPBF.IRLML2502TRPBF.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402526@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402526@irlml2502trpbf.\irlml2502trpbf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2504,248)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2504,248,2534,288)',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS63195@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins63195@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins63195@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(840,240)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(840,240,860,270)',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS65515@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins65515@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins65515@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(630,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(630,400,650,430)',
+ SECTION='';
+
+PART_NAME
+ R100 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409487@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409487@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409487@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3518,1195)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3518,1195,3538,1225)',
+ SECTION='';
+
+PART_NAME
+ R101 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409503@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409503@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409503@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3548,1195)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3548,1195,3568,1225)',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS69308@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins69308@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins69308@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(300,260,320,290)',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS69334@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins69334@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins69334@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(330,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(330,260,350,290)',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_RESC0603X26N_200K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS72157@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins72157@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins72157@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,540)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(790,540,820,560)',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS78765@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins78765@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins78765@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,500)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(820,500,850,520)',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS337953@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins337953@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins337953@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,620)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,620,870,650)',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_RESC0603X26N_43K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS337995@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins337995@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins337995@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(340,680)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(340,680,370,700)',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RESC0603X26N_49K9':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS338089@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins338089@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins338089@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,710)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,710,330,740)',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RESC0603X26N_0R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS337873@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins337873@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins337873@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,590)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(750,590,780,610)',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_RESC0603X26N_0R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS337917@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins337917@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins337917@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(750,610)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(750,610,780,630)',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS63211@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins63211@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins63211@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(810,240)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(810,240,830,270)',
+ SECTION='';
+
+PART_NAME
+ R20 'RESISTOR_RESC0603X26N_43K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS337070@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins337070@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins337070@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1540,560)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1540,560,1570,580)',
+ SECTION='';
+
+PART_NAME
+ R21 'RESISTOR_RESC0603X26N_49K9':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS337102@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins337102@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins337102@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1500,590)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1500,590,1520,620)',
+ SECTION='';
+
+PART_NAME
+ R26 'RESISTOR_RESC0603X26N_37K4':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402758@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402758@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402758@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1944,308)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1944,308,1964,338)',
+ SECTION='';
+
+PART_NAME
+ R27 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402774@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402774@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402774@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2014,308)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2014,308,2034,338)',
+ SECTION='';
+
+PART_NAME
+ R28 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403288@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403288@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403288@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2004,398)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2004,398,2024,428)',
+ SECTION='';
+
+PART_NAME
+ R29 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403416@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403416@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403416@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2054,438)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2054,438,2074,468)',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS63227@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins63227@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins63227@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,240)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,240,800,270)',
+ SECTION='';
+
+PART_NAME
+ R30 'RESISTOR_RESC0603X26N_1M':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403456@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403456@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403456@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2084,458)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2084,458,2104,488)',
+ SECTION='';
+
+PART_NAME
+ R31 'RESISTOR_RESC0603X26N_NS':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403536@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403536@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403536@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2084,528)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2084,528,2104,558)',
+ SECTION='';
+
+PART_NAME
+ R32 'RESISTOR_RESC0603X26N_37K4':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403680@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403680@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403680@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2404,608)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2404,608,2424,638)',
+ SECTION='';
+
+PART_NAME
+ R33 'RESISTOR_RESC0603X26N_0R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402626@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402626@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402626@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2404,268)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2404,268,2434,288)',
+ SECTION='';
+
+PART_NAME
+ R34 'RESISTOR_RESC0603X26N_1M':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402790@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402790@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402790@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2384,308)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2384,308,2414,328)',
+ SECTION='';
+
+PART_NAME
+ R35 'RESISTOR_RESC0603X26N_0R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403264@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403264@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403264@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2404,388)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2404,388,2434,408)',
+ SECTION='';
+
+PART_NAME
+ R36 'RESISTOR_RESC0603X26N_10':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403064@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403064@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403064@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2594,358)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2594,358,2614,388)',
+ SECTION='';
+
+PART_NAME
+ R37 'RESISTOR_RESC0603X26N_0R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403186@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403186@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403186@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2714,378)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2714,378,2734,408)',
+ SECTION='';
+
+PART_NAME
+ R38 'RESISTOR_RESC0603X26N_0R007':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS402932@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins402932@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins402932@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2754,328)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2754,328,2784,348)',
+ SECTION='';
+
+PART_NAME
+ R39 'RESISTOR_RESC0603X26N_0R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403202@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403202@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403202@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2794,378)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2794,378,2814,408)',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RESC0603X26N_200K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS63409@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins63409@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins63409@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,560)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,560,830,580)',
+ SECTION='';
+
+PART_NAME
+ R40 'RESISTOR_RESC0603X26N_10':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403218@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403218@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403218@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2844,378)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2844,378,2864,408)',
+ SECTION='';
+
+PART_NAME
+ R41 'RESISTOR_RESC0603X26N_63K4':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403472@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403472@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403472@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2844,458)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2844,458,2864,488)',
+ SECTION='';
+
+PART_NAME
+ R42 'RESISTOR_RESC0603X26N_12K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403612@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403612@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403612@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2844,578)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2844,578,2864,608)',
+ SECTION='';
+
+PART_NAME
+ R43 'RESISTOR_RESC0603X26N_51K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403720@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403720@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403720@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2384,648)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2384,648,2404,678)',
+ SECTION='';
+
+PART_NAME
+ R44 'RESISTOR_RESC0603X26N_511K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403830@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403830@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403830@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2214,788)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2214,788,2234,818)',
+ SECTION='';
+
+PART_NAME
+ R45 'RESISTOR_RESC0603X26N_91K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403910@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403910@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403910@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2214,858)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2214,858,2234,888)',
+ SECTION='';
+
+PART_NAME
+ R46 'RESISTOR_RESC0603X26N_0R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404198@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404198@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404198@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2074,1028)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2074,1028,2104,1048)',
+ SECTION='';
+
+PART_NAME
+ R47 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404478@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404478@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404478@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2264,1118)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2264,1118,2294,1138)',
+ SECTION='';
+
+PART_NAME
+ R48 'RESISTOR_RESC0603X26N_511K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404286@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404286@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404286@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2334,1038)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2334,1038,2354,1068)',
+ SECTION='';
+
+PART_NAME
+ R49 'RESISTOR_RESC0603X26N_91K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS404454@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins404454@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins404454@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2334,1108)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2334,1108,2354,1138)',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RESC0603X26N_200K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS63435@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins63435@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins63435@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(800,550)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(800,550,830,570)',
+ SECTION='';
+
+PART_NAME
+ R50 'RESISTOR_RESC0603X26N_330':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417090@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417090@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417090@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2179,2058)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2179,2058,2199,2088)',
+ SECTION='';
+
+PART_NAME
+ R51 'RESISTOR_RESC0603X26N_330':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416206@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416206@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416206@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1449,1818)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1449,1818,1469,1848)',
+ SECTION='';
+
+PART_NAME
+ R52 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416428@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416428@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416428@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1499,1868)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1499,1868,1519,1898)',
+ SECTION='';
+
+PART_NAME
+ R53 'RESISTOR_RESC0603X26N_560':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS415814@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins415814@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins415814@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1549,1728)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1549,1728,1569,1758)',
+ SECTION='';
+
+PART_NAME
+ R54 'RESISTOR_RESC0603X26N_1K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417112@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417112@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417112@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1349,2068)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1349,2068,1369,2098)',
+ SECTION='';
+
+PART_NAME
+ R55 'RESISTOR_RESC0603X26N_1K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417372@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417372@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417372@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1419,2128)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1419,2128,1439,2158)',
+ SECTION='';
+
+PART_NAME
+ R56 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417618@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417618@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417618@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1359,2248)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1359,2248,1379,2278)',
+ SECTION='';
+
+PART_NAME
+ R57 'RESISTOR_RESC0603X26N_2R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416870@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416870@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416870@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1639,2028)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1639,2028,1669,2048)',
+ SECTION='';
+
+PART_NAME
+ R58 'RESISTOR_RESC0603X26N_2R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417902@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417902@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417902@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1639,2398)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1639,2398,1669,2418)',
+ SECTION='';
+
+PART_NAME
+ R59 'RESISTOR_RESC0603X26N_1K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418004@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418004@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418004@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1349,2428)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1349,2428,1369,2458)',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS63747@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins63747@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins63747@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,480)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(820,480,850,500)',
+ SECTION='';
+
+PART_NAME
+ R60 'RESISTOR_RESC0603X26N_1K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418178@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418178@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418178@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1419,2488)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1419,2488,1439,2518)',
+ SECTION='';
+
+PART_NAME
+ R61 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418404@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418404@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418404@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1359,2608)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1359,2608,1379,2638)',
+ SECTION='';
+
+PART_NAME
+ R62 'RESISTOR_RESC0603X26N_1KDNP':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416454@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416454@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416454@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2849,1868)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2849,1868,2869,1898)',
+ SECTION='';
+
+PART_NAME
+ R63 'RESISTOR_RESC0603X26N_330R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS416512@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins416512@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins416512@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2969,1888)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2969,1888,2999,1908)',
+ SECTION='';
+
+PART_NAME
+ R64 'RESISTOR_RESC0603X26N_1KDNP':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417438@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417438@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417438@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2869,2158)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2869,2158,2889,2188)',
+ SECTION='';
+
+PART_NAME
+ R65 'RESISTOR_RESC0603X26N_330R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS417478@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins417478@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins417478@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2989,2178)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2989,2178,3019,2198)',
+ SECTION='';
+
+PART_NAME
+ R66 'RESISTOR_RESC0603X26N_1KDNP':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418086@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418086@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418086@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2859,2448)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2859,2448,2879,2478)',
+ SECTION='';
+
+PART_NAME
+ R67 'RESISTOR_RESC0603X26N_330R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418130@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418130@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418130@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2979,2468)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2979,2468,3009,2488)',
+ SECTION='';
+
+PART_NAME
+ R68 'RESISTOR_RESC0603X26N_1KDNP':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418470@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418470@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418470@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2879,2648)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2879,2648,2899,2678)',
+ SECTION='';
+
+PART_NAME
+ R69 'RESISTOR_RESC0603X26N_330R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418516@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418516@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418516@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2979,2678)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2979,2678,3009,2698)',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RESC0603X26N_12K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS63773@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins63773@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins63773@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(820,510)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(820,510,850,530)',
+ SECTION='';
+
+PART_NAME
+ R70 'RESISTOR_RESC0603X26N_1KDNP':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418718@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418718@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418718@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2879,2838)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2879,2838,2899,2868)',
+ SECTION='';
+
+PART_NAME
+ R71 'RESISTOR_RESC0603X26N_330R':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS418750@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins418750@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins418750@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2979,2868)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2979,2868,3009,2888)',
+ SECTION='';
+
+PART_NAME
+ R72 'RESISTOR_RESC0603X26N_DNI':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407761@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407761@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407761@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3518,225)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3518,225,3538,255)',
+ SECTION='';
+
+PART_NAME
+ R73 'RESISTOR_RESC0603X26N_DNI':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407777@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407777@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407777@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3548,225)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3548,225,3568,255)',
+ SECTION='';
+
+PART_NAME
+ R74 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407835@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407835@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407835@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3468,265)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3468,265,3498,285)',
+ SECTION='';
+
+PART_NAME
+ R75 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407859@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407859@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407859@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3818,265)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3818,265,3848,285)',
+ SECTION='';
+
+PART_NAME
+ R76 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407899@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407899@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407899@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3578,275)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3578,275,3608,295)',
+ SECTION='';
+
+PART_NAME
+ R77 'RESISTOR_RESC0603X26N_33K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407919@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407919@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407919@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3818,275)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3818,275,3848,295)',
+ SECTION='';
+
+PART_NAME
+ R78 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS407969@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins407969@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins407969@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3468,295)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3468,295,3498,315)',
+ SECTION='';
+
+PART_NAME
+ R79 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408009@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408009@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408009@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3568,305)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3568,305,3598,325)',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS65463@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins65463@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins65463@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(620,270)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(620,270,640,300)',
+ SECTION='';
+
+PART_NAME
+ R80 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408073@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408073@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408073@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3558,375)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3558,375,3578,405)',
+ SECTION='';
+
+PART_NAME
+ R81 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408089@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408089@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408089@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3588,375)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3588,375,3608,405)',
+ SECTION='';
+
+PART_NAME
+ R82 'RESISTOR_RESC0603X26N_DNI':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408457@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408457@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408457@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3478,625)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3478,625,3498,655)',
+ SECTION='';
+
+PART_NAME
+ R83 'RESISTOR_RESC0603X26N_DNI':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408473@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408473@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408473@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3508,625)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3508,625,3528,655)',
+ SECTION='';
+
+PART_NAME
+ R84 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408531@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408531@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408531@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3428,665)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3428,665,3458,685)',
+ SECTION='';
+
+PART_NAME
+ R85 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408555@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408555@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408555@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3778,665)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3778,665,3808,685)',
+ SECTION='';
+
+PART_NAME
+ R86 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408595@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408595@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408595@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3528,675)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3528,675,3558,695)',
+ SECTION='';
+
+PART_NAME
+ R87 'RESISTOR_RESC0603X26N_33K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408615@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408615@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408615@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3778,675)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3778,675,3808,695)',
+ SECTION='';
+
+PART_NAME
+ R88 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408665@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408665@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408665@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3428,695)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3428,695,3458,715)',
+ SECTION='';
+
+PART_NAME
+ R89 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408705@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408705@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408705@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3528,705)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3528,705,3558,725)',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS65489@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins65489@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins65489@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(610,400)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(610,400,630,430)',
+ SECTION='';
+
+PART_NAME
+ R90 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408769@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408769@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408769@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3518,775)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3518,775,3538,805)',
+ SECTION='';
+
+PART_NAME
+ R91 'RESISTOR_RESC0603X26N_100K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS408785@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins408785@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins408785@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3548,775)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3548,775,3568,805)',
+ SECTION='';
+
+PART_NAME
+ R92 'RESISTOR_RESC0603X26N_DNI':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409153@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409153@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409153@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3478,1045)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3478,1045,3498,1075)',
+ SECTION='';
+
+PART_NAME
+ R93 'RESISTOR_RESC0603X26N_DNI':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409169@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409169@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409169@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3508,1045)',
+ SCH_ORIENT='(180)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3508,1045,3528,1075)',
+ SECTION='';
+
+PART_NAME
+ R94 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409227@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409227@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409227@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3428,1085)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3428,1085,3458,1105)',
+ SECTION='';
+
+PART_NAME
+ R95 'RESISTOR_RESC0603X26N_10K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409251@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409251@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409251@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3778,1085)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3778,1085,3808,1105)',
+ SECTION='';
+
+PART_NAME
+ R96 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409291@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409291@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409291@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3528,1095)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3528,1095,3558,1115)',
+ SECTION='';
+
+PART_NAME
+ R97 'RESISTOR_RESC0603X26N_33K':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409311@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409311@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409311@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3778,1095)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3778,1095,3808,1115)',
+ SECTION='';
+
+PART_NAME
+ R98 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409361@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409361@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409361@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3428,1115)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3428,1115,3458,1135)',
+ SECTION='';
+
+PART_NAME
+ R99 'RESISTOR_RESC0603X26N_0R0':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS409409@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins409409@discrete.\resistor.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins409409@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(3528,1125)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(3528,1125,3558,1145)',
+ SECTION='';
+
+PART_NAME
+ U3 'TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS403802@PARCIAL2_KS.TPS631000DRLR_2.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins403802@parcial2_ks.\tps631000drlr_2.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins403802@parcial2_ks.\tps631000drlr_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2004,788)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2004,788,2074,918)',
+ SECTION='';
+
+PART_NAME
+ U4 'AN1914_3_AN1914_AN1914':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS415900@PARCIAL2_KS.AN1914_3.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins415900@parcial2_ks.\an1914_3.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins415900@parcial2_ks.\an1914_3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(2039,1748)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(2039,1748,2139,2128)',
+ SECTION='';
+
+PART_NAME
+ U7 'USB7216_NEW_USB7216_USB7216_NEW':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS339277@LIBRARY1.USB7216_NEW.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins339277@library1.\usb7216_new.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,270)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(880,270,1190,1180)',
+ SECTION='';
+
+PART_NAME
+ Y1 'DSC1001CI2-025_0.0000_DSC1001CI20250000_DSC1001CI2-025.0000':;
+
+SECTION_NUMBER 1
+ '@PARCIAL2_KS.SCHEMATIC1(SCH_1):INS74272@PARCIAL2_KS.DSC1001CI2-025_0.0000.NORMAL(CHIPS)':
+ C_PATH='@parcial2_ks.schematic1(sch_1):ins74272@parcial2_ks.\dsc1001ci2-025_0.0000.normal\(chips)',
+ P_PATH='@parcial2_ks.schematic1(sch_1):page1_ins74272@parcial2_ks.\dsc1001ci2-025_0.0000.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,410)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(730,410,820,480)',
+ SECTION='';
+
+END.

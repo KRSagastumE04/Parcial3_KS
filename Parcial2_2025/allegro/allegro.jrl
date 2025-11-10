@@ -1,0 +1,123 @@
+\t (00:00:04) allegro 24.1 S006 (4326263) [7/24/2025] Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Nov 10 14:49:04 2025
+\t (00:00:04)         Host=DESKTOP-DI504CJ User=Káterin Pid=17028 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\allegro.exe -mpssession Káterin -proj c:\candencecircuits\parcial2_2025\parcial2_ks.opj c:\candencecircuits\parcial2_2025\allegro\parcial2_ks.brd
+\t (00:00:04) 
+\t (00:00:04) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "parcial2_ks"
+\d (00:00:07) Design opened: c:/candencecircuits/parcial2_2025/allegro/parcial2_ks.brd
+\i (00:00:08) trapsize 7050
+\i (00:00:08) trapsize 7305
+\i (00:00:08) trapsize 7050
+\i (00:00:09) trapsize 5589
+\i (00:00:09) trapsize 5589
+\t (00:00:09) > Sending response DoneOpenBoard
+\i (00:00:10) updateport CVPane
+\i (00:00:10) shapeedit 
+\i (00:00:11) roam start
+\i (00:00:11) roam y 16
+\i (00:00:11) roam x 112
+\i (00:00:11) roam y 112
+\i (00:00:12) roam x 64
+\i (00:00:12) roam x 96
+\i (00:00:12) roam y -16
+\i (00:00:12) roam x 16
+\i (00:00:12) roam y -16
+\i (00:00:12) roam x -16
+\i (00:00:12) roam y -32
+\i (00:00:12) roam y -48
+\i (00:00:12) roam end
+\i (00:00:17) artwork 
+\i (00:00:17) FORM film_control general_parameters 
+\i (00:00:17) setwindow form.film_control
+\i (00:00:17) FORM film_control general_parameters  
+\i (00:00:17) setwindow pcb
+\i (00:00:17) trapsize 5589
+\i (00:00:19) setwindow form.film_control
+\i (00:00:19) FORM film_control film_control  
+\i (00:00:22) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:00:22) FORM film_control filmtree  INTERNAL_1 
+\i (00:00:23) FORM film_control filmtree  INTERNAL_2 
+\i (00:00:23) FORM film_control filmtree 'MULTISEL YES' INTERNAL_2 
+\i (00:00:23) FORM film_control filmtree  INTERNAL_1 
+\i (00:00:24) FORM film_control filmtree  INTERNAL_3 
+\i (00:00:24) FORM film_control filmtree 'MULTISEL YES' INTERNAL_3 
+\i (00:00:25) FORM film_control filmtree  INTERNAL_4 
+\i (00:00:25) FORM film_control filmtree 'MULTISEL YES' INTERNAL_4 
+\i (00:00:25) FORM film_control filmtree  TOP 
+\i (00:00:25) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:00:26) FORM film_control filmtree  INTERNAL_1 
+\i (00:00:29) FORM film_control filmtree 'MULTISEL YES' INTERNAL_1 
+\i (00:00:30) FORM film_control create  
+\t (00:00:30) Checking db records
+\t (00:00:30)     checking for orphans...
+\t (00:00:30)     Checked  18 percent
+\t (00:00:30)     Checked  36 percent
+\t (00:00:30)     Checked  55 percent
+\t (00:00:30)     Checked  73 percent
+\t (00:00:30)     Checked  91 percent
+\t (00:00:30)     Checked 100 percent
+\t (00:00:30) Done dbdoctor.
+\t (00:00:30) Starting Create artwork films...
+\t (00:00:32) SpawnProcessExit background process completed status = 0
+
+\t (00:00:33) Plot generated.
+\i (00:00:52) FORM film_control generate_films  
+\t (00:00:53) Loading signal.cxt 
+\t (00:00:53) Loading mfg.cxt 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) updateport CVPane
+\i (00:01:41) setwindow form.film_control
+\i (00:01:41) FORM film_control filmtree  ASSYBT 
+\i (00:01:41) FORM film_control filmtree 'MULTISEL YES' ASSYBT 
+\i (00:01:42) FORM film_control filmtree  ASSYTP 
+\i (00:01:42) FORM film_control filmtree 'MULTISEL YES' ASSYTP 
+\i (00:01:43) FORM film_control filmtree  BOTTOM 
+\i (00:01:43) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:01:46) FORM film_control select_all  
+\i (00:01:48) FORM film_control domain_setting  
+\i (00:01:54) setwindow form.film_domain
+\i (00:01:54) FORM film_domain close  
+\i (00:01:54) setwindow form.film_control
+\i (00:01:54) FORM film_control filmtree  ASSYBT 
+\i (00:01:56) FORM film_control create  
+\w (00:01:56) No film records selected.
+\i (00:02:04) FORM film_control create  
+\w (00:02:04) No film records selected.
+\i (00:02:07) FORM film_control generate_films  
+\i (00:02:08) setwindow pcb
+\i (00:02:08) updateport CVPane
+\i (00:02:08) setwindow form.film_control
+\i (00:02:08) FORM film_control film_categories  
+\i (00:03:17) FORM film_control cancel  
+\i (00:03:17) setwindow pcb
+\i (00:03:17) shapeedit 
+\i (00:03:19) artwork 
+\i (00:03:19) FORM film_control general_parameters 
+\i (00:03:19) setwindow form.film_control
+\i (00:03:19) FORM film_control general_parameters  
+\i (00:03:19) setwindow pcb
+\i (00:03:19) trapsize 5589
+\i (00:03:24) setwindow form.film_control
+\i (00:03:24) FORM film_control film_control  
+\i (00:03:26) FORM film_control select_all  
+\i (00:03:31) FORM film_control generate_films  
+\i (00:03:32) setwindow pcb
+\i (00:03:32) updateport CVPane
+\i (00:03:33) setwindow form.film_control
+\i (00:03:33) FORM film_control select_all  
+\i (00:03:35) FORM film_control create  
+\t (00:03:35) Checking db records
+\t (00:03:35)     checking for orphans...
+\t (00:03:35)     Checked  17 percent
+\t (00:03:35)     Checked  35 percent
+\t (00:03:35)     Checked  53 percent
+\t (00:03:35)     Checked  71 percent
+\t (00:03:35)     Checked  88 percent
+\t (00:03:36)     Checked 100 percent
+\t (00:03:36) Done dbdoctor.
+\t (00:03:36) Starting Create artwork films...
+\t (00:03:37) SpawnProcessExit background process completed status = 1
+
+\w (00:03:37) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.

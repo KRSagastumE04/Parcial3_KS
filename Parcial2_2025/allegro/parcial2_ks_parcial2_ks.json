@@ -1,0 +1,19 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "USB3DN_RX1A_P",
+			"C_PATH" : "@parcial2_ks.schematic1(sch_1):usb3dn_rx1a_p",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "USB3DN_RX1A"
+		}
+	],
+	"Pin Property" : [],
+	"Component" : [],
+	"Net" : [],
+	"Connection" : []
+}

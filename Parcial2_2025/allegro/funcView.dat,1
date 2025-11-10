@@ -1,0 +1,215 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!c:/candencecircuits/parcial2_2025/allegro/parcial2_ks.brd!Sat Nov  8 19:05:56 2025!-113.0300!-60.3250!420.3700!371.4750!0.0001!millimeters!PARCIAL2_KS!38.000000 mil!5!OUT OF DATE!
+S!@parcial2_ks.schematic1(sch_1):ins339277@library1.\usb7216_new.normal\(chips)!USB7216_NEW_USB7216_USB7216_NEW!U7!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins268631@\1n4148w\.\1n4148w.normal\(chips)!1N4148W_SOD3716X135N_1N4148W!D11!.\chipsView.dat!!!!!!F126!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins268655@\1n4148w\.\1n4148w.normal\(chips)!1N4148W_SOD3716X135N_1N4148W!D12!.\chipsView.dat!!!!!!F125!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins172410@\dfls1150-7\.\dfls1150-7.normal\(chips)!DFLS1150-7_DIOM5443X265N_DIOM5226X230N!D10!.\chipsView.dat!!!!!!F127!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins248099@parcial2_ks.\lqw18an22nj10d_0.normal\(chips)!LQW18AN22NJ10D_0_AISC-0603HP_LQW18AN22NJ10D!L6!.\chipsView.dat!!!!!!F110!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins250598@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)!LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D!L7!.\chipsView.dat!!!!!!F109!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins250855@lqw18an22nj10d.\lqw18an22nj10d.normal\(chips)!LQW18AN22NJ10D_AISC-0603HP_LQW18AN22NJ10D!L8!.\chipsView.dat!!!!!!F108!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins223946@parcial2_ks.\an1914_3.normal\(chips)!AN1914_3_AN1914_AN1914!U4!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins88817@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!C23!.\chipsView.dat!!!!!!F166!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins89975@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!C24!.\chipsView.dat!!!!!!F165!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins91126@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_4U7!C27!.\chipsView.dat!!!!!!F164!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins90001@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U47!C25!.\chipsView.dat!!!!!!F163!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins90361@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_1U!C26!.\chipsView.dat!!!!!!F162!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins92562@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_1U!C28!.\chipsView.dat!!!!!!F161!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins93177@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_220P!C29!.\chipsView.dat!!!!!!F160!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94713@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_220P!C30!.\chipsView.dat!!!!!!F159!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94947@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_680P!C31!.\chipsView.dat!!!!!!F158!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins95245@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!C33!.\chipsView.dat!!!!!!F157!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins99891@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!C35!.\chipsView.dat!!!!!!F156!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins100357@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!C36!.\chipsView.dat!!!!!!F155!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins104851@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!C38!.\chipsView.dat!!!!!!F154!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins105027@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!C41!.\chipsView.dat!!!!!!F153!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins105079@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!C42!.\chipsView.dat!!!!!!F152!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins108076@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_22U!C43!.\chipsView.dat!!!!!!F151!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins96901@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_220U!C34!.\chipsView.dat!!!!!!F150!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins104069@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_47U!C37!.\chipsView.dat!!!!!!F149!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins117578@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_10U!C47!.\chipsView.dat!!!!!!F148!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins134788@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!C72!.\chipsView.dat!!!!!!F143!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins126636@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!C58!.\chipsView.dat!!!!!!F147!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins129349@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!C64!.\chipsView.dat!!!!!!F146!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130238@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!C68!.\chipsView.dat!!!!!!F145!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins131389@discrete.\cap pol.normal\(chips)!CAP POL_CAPC0603X33N_150U!C70!.\chipsView.dat!!!!!!F144!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136045@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C74!.\chipsView.dat!!!!!!F142!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136061@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C75!.\chipsView.dat!!!!!!F141!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136077@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C76!.\chipsView.dat!!!!!!F140!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136093@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C77!.\chipsView.dat!!!!!!F139!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins137935@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C79!.\chipsView.dat!!!!!!F138!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins137951@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C80!.\chipsView.dat!!!!!!F137!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins137967@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C81!.\chipsView.dat!!!!!!F136!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins137983@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C82!.\chipsView.dat!!!!!!F135!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140229@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C84!.\chipsView.dat!!!!!!F134!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140245@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C85!.\chipsView.dat!!!!!!F133!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140261@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C86!.\chipsView.dat!!!!!!F132!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140277@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_47U!C87!.\chipsView.dat!!!!!!F131!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136109@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!C78!.\chipsView.dat!!!!!!F130!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins137999@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!C83!.\chipsView.dat!!!!!!F129!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140293@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_100N!C88!.\chipsView.dat!!!!!!F128!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins88791@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_37K4!R26!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins92034@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_37K4!R32!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins91685@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1M!R30!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins92422@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1M!R34!.\chipsView.dat!!!!!!F56!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins91825@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_NS!R31!.\chipsView.dat!!!!!!F55!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94274@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R007!R38!.\chipsView.dat!!!!!!F52!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins93151@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10!R36!.\chipsView.dat!!!!!!F54!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94394@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10!R40!.\chipsView.dat!!!!!!F53!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94420@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_63K4!R41!.\chipsView.dat!!!!!!F51!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94876@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_51K!R43!.\chipsView.dat!!!!!!F48!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins100234@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_511K!R44!.\chipsView.dat!!!!!!F47!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins107860@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_511K!R48!.\chipsView.dat!!!!!!F46!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins100260@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_91K!R45!.\chipsView.dat!!!!!!F45!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins107888@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_91K!R49!.\chipsView.dat!!!!!!F44!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins112599@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330!R50!.\chipsView.dat!!!!!!F43!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins116646@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330!R51!.\chipsView.dat!!!!!!F42!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins117286@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_560!R53!.\chipsView.dat!!!!!!F41!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins121731@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!R54!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins121959@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!R55!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123074@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!R59!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123158@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1K!R60!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins122066@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_2R!R57!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123022@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_2R!R58!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins126610@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!R62!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins129333@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!R64!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130222@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!R66!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins131373@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!R68!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins134772@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_1KDNP!R70!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins128049@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!R63!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins129365@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!R65!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130254@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!R67!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins131840@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!R69!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins134804@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_330R!R71!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136181@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!R72!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136197@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!R73!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138071@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!R82!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138087@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!R83!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140371@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!R92!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140387@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_DNI!R93!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140575@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R98!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136253@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R74!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136317@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R76!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136385@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R78!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136425@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R79!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138143@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R84!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138207@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R86!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138275@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R88!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138315@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R89!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140443@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R94!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140507@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R96!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140615@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R0!R99!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136337@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!R77!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138227@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!R87!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140527@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_33K!R97!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins228205@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C89!.\chipsView.dat!!!!!!F196!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins62687@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C1!.\chipsView.dat!!!!!!F212!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67538@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C10!.\chipsView.dat!!!!!!F211!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67564@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C11!.\chipsView.dat!!!!!!F210!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67590@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C12!.\chipsView.dat!!!!!!F209!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67616@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C13!.\chipsView.dat!!!!!!F208!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67642@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C14!.\chipsView.dat!!!!!!F207!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67668@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C15!.\chipsView.dat!!!!!!F206!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67694@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C16!.\chipsView.dat!!!!!!F205!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins69386@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C17!.\chipsView.dat!!!!!!F204!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins66228@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C2!.\chipsView.dat!!!!!!F203!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins66254@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C3!.\chipsView.dat!!!!!!F202!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins66280@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C4!.\chipsView.dat!!!!!!F201!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins66306@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C5!.\chipsView.dat!!!!!!F200!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins66332@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C6!.\chipsView.dat!!!!!!F199!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins66358@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C7!.\chipsView.dat!!!!!!F198!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins66384@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C8!.\chipsView.dat!!!!!!F197!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins67512@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_100N!C9!.\chipsView.dat!!!!!!F195!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins134844@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C73!.\chipsView.dat!!!!!!F167!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins104877@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C39!.\chipsView.dat!!!!!!F192!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins104903@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C40!.\chipsView.dat!!!!!!F191!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins108102@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C44!.\chipsView.dat!!!!!!F190!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins112615@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C45!.\chipsView.dat!!!!!!F189!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins116670@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C46!.\chipsView.dat!!!!!!F188!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins118288@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C48!.\chipsView.dat!!!!!!F187!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins118314@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C49!.\chipsView.dat!!!!!!F186!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins118586@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C50!.\chipsView.dat!!!!!!F185!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins118618@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C51!.\chipsView.dat!!!!!!F184!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins121695@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C52!.\chipsView.dat!!!!!!F183!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins121907@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C53!.\chipsView.dat!!!!!!F182!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins121933@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C54!.\chipsView.dat!!!!!!F181!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123090@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C55!.\chipsView.dat!!!!!!F180!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123106@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C56!.\chipsView.dat!!!!!!F179!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123174@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C57!.\chipsView.dat!!!!!!F178!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins126822@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C59!.\chipsView.dat!!!!!!F177!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins126852@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C60!.\chipsView.dat!!!!!!F176!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins128023@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C61!.\chipsView.dat!!!!!!F175!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins129245@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C62!.\chipsView.dat!!!!!!F174!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins129285@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C63!.\chipsView.dat!!!!!!F173!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins129405@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C65!.\chipsView.dat!!!!!!F172!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130134@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C66!.\chipsView.dat!!!!!!F171!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130174@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C67!.\chipsView.dat!!!!!!F170!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130294@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C69!.\chipsView.dat!!!!!!F169!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins131868@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C71!.\chipsView.dat!!!!!!F168!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins74761@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C18!.\chipsView.dat!!!!!!F194!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins338105@discrete.\cap np.normal\(chips)!CAP NP_CAPC0603X33N_0U1!C19!.\chipsView.dat!!!!!!F193!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins107797@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R47!.\chipsView.dat!!!!!!F94!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136277@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R75!.\chipsView.dat!!!!!!F92!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138167@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R85!.\chipsView.dat!!!!!!F90!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140467@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R95!.\chipsView.dat!!!!!!F88!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins63195@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R1!.\chipsView.dat!!!!!!F100!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins65515@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R10!.\chipsView.dat!!!!!!F99!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins69308@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R11!.\chipsView.dat!!!!!!F98!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins69334@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R12!.\chipsView.dat!!!!!!F97!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins63211@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R2!.\chipsView.dat!!!!!!F96!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins63227@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R3!.\chipsView.dat!!!!!!F95!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins63747@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R6!.\chipsView.dat!!!!!!F93!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins65463@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R8!.\chipsView.dat!!!!!!F91!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins65489@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_10K!R9!.\chipsView.dat!!!!!!F89!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins72157@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!R13!.\chipsView.dat!!!!!!F73!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins63409@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!R4!.\chipsView.dat!!!!!!F72!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins63435@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_200K!R5!.\chipsView.dat!!!!!!F71!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140679@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R100!.\chipsView.dat!!!!!!F87!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140695@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R101!.\chipsView.dat!!!!!!F86!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins90335@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R27!.\chipsView.dat!!!!!!F83!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins91110@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R28!.\chipsView.dat!!!!!!F82!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins91262@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R29!.\chipsView.dat!!!!!!F81!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins117260@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R52!.\chipsView.dat!!!!!!F80!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins122015@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R56!.\chipsView.dat!!!!!!F79!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123244@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R61!.\chipsView.dat!!!!!!F78!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136489@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R80!.\chipsView.dat!!!!!!F77!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins136505@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R81!.\chipsView.dat!!!!!!F76!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138379@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R90!.\chipsView.dat!!!!!!F75!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins138395@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R91!.\chipsView.dat!!!!!!F74!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins78765@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R14!.\chipsView.dat!!!!!!F85!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins337953@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_100K!R15!.\chipsView.dat!!!!!!F84!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins337995@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_43K!R16!.\chipsView.dat!!!!!!F70!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins337070@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_43K!R20!.\chipsView.dat!!!!!!F69!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins338089@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_49K9!R17!.\chipsView.dat!!!!!!F68!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins337102@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_49K9!R21!.\chipsView.dat!!!!!!F67!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins92299@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!R33!.\chipsView.dat!!!!!!F64!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins92788@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!R35!.\chipsView.dat!!!!!!F63!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins93976@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!R37!.\chipsView.dat!!!!!!F62!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94322@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!R39!.\chipsView.dat!!!!!!F61!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins105053@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!R46!.\chipsView.dat!!!!!!F60!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins337873@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!R18!.\chipsView.dat!!!!!!F66!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins337917@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_0R!R19!.\chipsView.dat!!!!!!F65!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins94546@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_12K!R42!.\chipsView.dat!!!!!!F50!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins63773@discrete.\resistor.normal\(chips)!RESISTOR_RESC0603X26N_12K!R7!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins163541@mur160s_r4.\mur160s_r4.normal\(chips)!MUR160S_R4_DIOM5443X265N_MUR160S_R4!D8!.\chipsView.dat!!!!!!F124!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins170679@bav70_rf.\bav70_rf.normal\(chips)!BAV70_RF_BAV70RF_BAV70_RF!D9!.\chipsView.dat!!!!!!F123!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins65197@parcial2_ks.\sst26vf016b-104i_mf_0.normal\(chips)!SST26VF016B-104I_MF_0_SON127P600X500X80-9N-D_SST26VF016B-104I_MF!IC1!.\chipsView.dat!!!!!!F122!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins135885@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!IC2!.\chipsView.dat!!!!!!F121!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins137751@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!IC7!.\chipsView.dat!!!!!!F120!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins140045@bloque1_ejemplo.\ucs2114t-1-v_lx_3.normal\(chips)!UCS2114T-1-V_LX_3_QFN50P300X300X90-20N-D_UCS2114T-1-V_LX!IC8!.\chipsView.dat!!!!!!F119!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins88338@parcial2_ks.\mp2908agf-z_6.normal\(chips)!MP2908AGF-Z_6_SOP65P640X120-21N_MP2908AGF-Z!IC5!.\chipsView.dat!!!!!!F118!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins103614@parcial2_ks.\mic23201yml-tr_2.normal\(chips)!MIC23201YML-TR_2_SON50P300X300X100-11N-D_MIC23201YML-TR!IC6!.\chipsView.dat!!!!!!F117!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins338015@parcial2_ks.\0484050003_2.normal\(chips)!0484050003_2_0484050003_0484050003!J1!.\chipsView.dat!!!!!!F116!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins123890@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!J2!.\chipsView.dat!!!!!!F115!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins129129@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!J3!.\chipsView.dat!!!!!!F114!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130018@parcial2_ks.\usb1086-gf-b_reva_0.normal\(chips)!USB1086-GF-B_REVA_0_GCT_USB1086-GF-B_REVA_USB1086-GF-B_REVA!J4!.\chipsView.dat!!!!!!F113!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins130619@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!J5!.\chipsView.dat!!!!!!F112!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins134670@parcial2_ks.\ue27-ae54-10h_0.normal\(chips)!UE27-AE54-10H_0_UE27AE5410H_UE27-AE54-10H!J6!.\chipsView.dat!!!!!!F111!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins163376@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!Q10!.\chipsView.dat!!!!!!F107!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins171628@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!Q11!.\chipsView.dat!!!!!!F106!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins173004@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!Q13!.\chipsView.dat!!!!!!F105!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins162322@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!Q8!.\chipsView.dat!!!!!!F104!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins163168@irlml2502trpbf.\irlml2502trpbf.normal\(chips)!IRLML2502TRPBF_SOT95P237X112-3N_IRLML2502TRPBF!Q9!.\chipsView.dat!!!!!!F103!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins172130@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!Q12!.\chipsView.dat!!!!!!F102!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins173761@bss314peh6327xtsa1.\bss314peh6327xtsa1.normal\(chips)!BSS314PEH6327XTSA1_SOT95P260X110-3N_BSS314PEH6327XTSA1!Q14!.\chipsView.dat!!!!!!F101!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins88202@parcial2_ks.\tps631000drlr_2.normal\(chips)!TPS631000DRLR_2_SOTFL50P160X60-8N_TPS631000DRLR!U3!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@parcial2_ks.schematic1(sch_1):ins74272@parcial2_ks.\dsc1001ci2-025_0.0000.normal\(chips)!DSC1001CI2-025_0.0000_DSC1001CI20250000_DSC1001CI2-025.0000!Y1!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

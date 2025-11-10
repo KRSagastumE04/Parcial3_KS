@@ -1,0 +1,595 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : parcial2_ks.brd                               )
+(    Software Version : 24.1S006                                      )
+(    Date/Time        : Mon Nov 10 14:52:36 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.23800                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     2.70000                                  DARK 
+  CIRCLE     2.92500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+  SQUARE     0.30000                     0.000 NO     DARK 
+  SQUARE     1.20000                     0.000 NO     DARK 
+  SQUARE     1.23800                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     8.10000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.47500      90.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.70000      90.000 NO     DARK 
+  RECTANGLE  0.45000     x 1.47500      90.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  0.64000     x 1.27000       0.000 NO     DARK 
+  RECTANGLE  0.64000     x 1.27000      90.000 NO     DARK 
+  RECTANGLE  0.75000     x 1.25000       0.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.75000     x 2.45000       0.000 NO     DARK 
+  RECTANGLE  2.15000     x 2.30000       0.000 NO     DARK 
+  RECTANGLE  3.10000     x 4.30000       0.000 NO     DARK 
+  OBLONG     1.05000     x 0.20000       0.000 NO     DARK 
+  OBLONG     1.05000     x 0.20000      90.000 NO     DARK 
+  PAD SHAPE  D105_45                     0.000 NO     DARK 
+  PAD SHAPE  D35_30                      0.000 NO     DARK 
+  PAD SHAPE  D80_30                     90.000 NO     DARK 
+  PAD SHAPE  D35_30                     90.000 NO     DARK 
+  PAD SHAPE  D35_30                    180.000 NO     DARK 
+  PAD SHAPE  D80_30                    270.000 NO     DARK 
+  PAD SHAPE  D35_30                    270.000 NO     DARK 
+  PAD SHAPE  D105_45                   270.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < INTERNAL_1 >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/INTERNAL_1.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.23800                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     2.70000                                  DARK 
+  CIRCLE     2.92500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+
+     INTERNAL_1 created.
+
+
+================================================================
+     PROCESSING FILM < INTERNAL_4 >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/INTERNAL_4.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.23800                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     2.70000                                  DARK 
+  CIRCLE     2.92500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+
+     INTERNAL_4 created.
+
+
+================================================================
+     PROCESSING FILM < INTERNAL_2 >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/INTERNAL_2.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.23800                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     2.70000                                  DARK 
+  CIRCLE     2.92500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+
+     INTERNAL_2 created.
+
+
+================================================================
+     PROCESSING FILM < INTERNAL_3 >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/INTERNAL_3.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.23800                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     2.70000                                  DARK 
+  CIRCLE     2.92500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+
+     INTERNAL_3 created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.20000                                  DARK 
+  CIRCLE     1.23800                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     2.70000                                  DARK 
+  CIRCLE     2.92500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+  SQUARE     0.30000                     0.000 NO     DARK 
+  SQUARE     1.20000                     0.000 NO     DARK 
+  SQUARE     1.23800                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  RECTANGLE  0.60000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  0.85000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  2.15000     x 2.30000       0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < NCLEGEND-1-6 >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/NCLEGEND-1-6.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (50.1000 120.5750)
+           ... using undefined line width of 0.1524
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1524
+
+    WARNING: text composed 0 width line found at (61.5173 179.3125)
+           ... using undefined line width of 0.1524
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1524
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+
+     NCLEGEND-1-6 created with warnings
+
+
+================================================================
+     PROCESSING FILM < SSTP >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/SSTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+
+     SSTP created.
+
+
+================================================================
+     PROCESSING FILM < SSBT >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/SSBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     SSBT created.
+
+
+================================================================
+     PROCESSING FILM < SMTP >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/SMTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.33000                                  DARK 
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.43800                                  DARK 
+  CIRCLE     3.12500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+  SQUARE     0.40000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.43800                     0.000 NO     DARK 
+  SQUARE     8.17000                     0.000 NO     DARK 
+  RECTANGLE  0.23000     x 0.63000      90.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.47500      90.000 NO     DARK 
+  RECTANGLE  0.64000     x 1.27000       0.000 NO     DARK 
+  RECTANGLE  0.64000     x 1.27000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.00000      90.000 NO     DARK 
+  OBLONG     1.11000     x 0.27000       0.000 NO     DARK 
+  OBLONG     1.11000     x 0.27000      90.000 NO     DARK 
+
+     SMTP created.
+
+
+================================================================
+     PROCESSING FILM < SMBT >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/SMBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.40000                                  DARK 
+  CIRCLE     1.43800                                  DARK 
+  CIRCLE     3.12500                                  DARK 
+  CIRCLE     3.45000                                  DARK 
+  SQUARE     0.40000                     0.000 NO     DARK 
+  SQUARE     1.40000                     0.000 NO     DARK 
+  SQUARE     1.43800                     0.000 NO     DARK 
+
+     SMBT created.
+
+
+================================================================
+     PROCESSING FILM < SPTP >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/SPTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.47000                                  DARK 
+  SQUARE     0.30000                     0.000 NO     DARK 
+  SQUARE     8.03000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.47500      90.000 NO     DARK 
+  RECTANGLE  0.37000     x 0.77000      90.000 NO     DARK 
+  RECTANGLE  0.64000     x 1.27000       0.000 NO     DARK 
+  RECTANGLE  0.64000     x 1.27000      90.000 NO     DARK 
+  RECTANGLE  0.90000     x 1.00000      90.000 NO     DARK 
+  OBLONG     0.98000     x 0.13000       0.000 NO     DARK 
+  OBLONG     0.98000     x 0.13000      90.000 NO     DARK 
+
+     SPTP created.
+
+
+================================================================
+     PROCESSING FILM < SPBT >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/SPBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  SQUARE     0.30000                     0.000 NO     DARK 
+
+     SPBT created.
+
+
+================================================================
+     PROCESSING FILM < ASSYTP >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/ASSYTP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     ASSYTP created.
+
+
+================================================================
+     PROCESSING FILM < ASSYBT >
+     TO FILE < c:/candencecircuits/parcial2_2025/allegro/ASSYBT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+
+     ASSYBT created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        INTERNAL_1 created.
+        INTERNAL_4 created.
+        INTERNAL_2 created.
+        INTERNAL_3 created.
+        BOTTOM created.
+        NCLEGEND-1-6 created with warnings
+        SSTP created.
+        SSBT created.
+        SMTP created.
+        SMBT created.
+        SPTP created.
+        SPBT created.
+        ASSYTP created.
+        ASSYBT created.
+
+ ARTWORK had warnings

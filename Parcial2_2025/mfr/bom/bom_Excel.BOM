@@ -1,17 +1,15 @@
-  Revised: Monday, November 10, 2025
-          Revision: 
-
-
-
-
-
-
-
-Bill Of Materials       November 10,2025      12:55:17	Page1
-
+  Revised: Monday, November 10, 2025					
+          Revision: 					
+					
+					
+					
+					
+					
+					
+					
+Bill Of Materials       November 10,2025      12:55:17	Page1				
+					
 Item	Quantity	Reference	Part	Description	DigikeyPN
-______________________________________________
-
 1	21	C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C78,C83,C88,C89	100N	Description}	
 2	28	C18,C19,C39,C40,C44,C45,C46,C48,C49,C50,C51,C52,C53,C54,C55,C56,C57,C59,C60,C61,C62,C63,C65,C66,C67,C69,C71,C73	0U1	Description}	
 3	3	C23,C24,C27	4U7	Description}	
@@ -32,7 +30,7 @@ ______________________________________________
 18	3	IC2,IC7,IC8	UCS2114T-1-V_LX	Description}	
 19	1	IC5	MP2908AGF-Z	Description}	
 20	1	IC6	MIC23201YML-TR	Description}	
-21	1	J1	0484050003	Description}	
+21	1	J1	484050003	Description}	
 22	3	J2,J3,J4	USB1086-GF-B_REVA	Description}	
 23	2	J5,J6	UE27-AE54-10H	Description}	
 24	3	L6,L7,L8	LQW18AN22NJ10D	Description}	
